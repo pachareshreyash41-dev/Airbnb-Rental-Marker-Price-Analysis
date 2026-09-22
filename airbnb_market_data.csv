@@ -1,0 +1,1201 @@
+id,host_id,host_is_superhost,neighbourhood_group,neighbourhood_cleansed,latitude,longitude,room_type,accommodates,bedrooms,bathrooms,price,minimum_nights,number_of_reviews,reviews_per_month,review_scores_rating,availability_365
+1000000,200294,f,Manhattan,SoHo,40.76299,-73.9575,Entire home/apt,4,3,2.2,$193.13,5,101,1.2,4.98,229
+1000001,200360,t,Bronx,Pelham Bay,40.84936,-73.86081,Entire home/apt,4,2,1.5,$94.86,1,22,1.32,4.88,104
+1000002,200143,f,Brooklyn,Bed-Stuy,40.69076,-73.9564,Private room,2,1,1.0,$77.17,1,31,1.51,4.86,208
+1000003,200180,t,Brooklyn,Brooklyn Heights,40.69641,-73.9463,Entire home/apt,4,2,2.0,$310.16,3,3,3.17,4.5,61
+1000004,200285,t,Manhattan,Midtown,40.79643,-73.96018,Private room,2,1,1.5,$137.25,2,31,0.67,4.75,239
+1000005,200112,t,Manhattan,Harlem,40.76752,-73.96366,Entire home/apt,3,2,1.5,$239.32,30,3,0.37,4.59,60
+1000006,200230,f,Manhattan,Lower East Side,40.78799,-73.97075,Private room,1,1,1.0,$122.01,3,105,4.11,4.51,345
+1000007,200021,t,Queens,Flushing,40.72678,-73.79619,Entire home/apt,6,4,3.0,$96.11,30,10,0.57,4.79,11
+1000008,200145,f,Brooklyn,Brooklyn Heights,40.69039,-73.93553,Entire home/apt,3,2,2.0,$213.21,1,2,2.21,4.7,136
+1000009,200146,t,Brooklyn,DUMBO,40.67866,-73.96658,Private room,3,1,1.0,$129.25,7,15,4.43,4.71,194
+1000010,200375,t,Manhattan,Lower East Side,40.79052,-73.96035,Entire home/apt,2,1,1.8,$228.63,2,1,0.84,4.93,73
+1000011,200316,f,Bronx,Riverdale,40.87931,-73.84867,Entire home/apt,5,3,2.2,$132.57,30,6,1.24,4.76,362
+1000012,200166,f,Queens,Long Island City,40.69971,-73.79372,Entire home/apt,3,1,1.2,$115.21,1,26,2.14,4.97,135
+1000013,200140,f,Manhattan,Harlem,40.81027,-73.96185,Entire home/apt,4,2,1.5,$221.83,2,3,2.07,4.82,42
+1000014,200203,f,Manhattan,Upper East Side,40.78803,-73.9577,Entire home/apt,6,3,2.8,$243.48,3,61,0.49,4.91,38
+1000015,200244,f,Manhattan,SoHo,40.77376,-73.96403,Entire home/apt,4,2,1.5,$191.69,2,85,2.44,4.72,30
+1000016,200113,f,Manhattan,Chelsea,40.77934,-73.97149,Private room,1,1,1.0,$136.70,2,32,0.94,4.55,141
+1000017,200201,f,Brooklyn,Williamsburg,40.69063,-73.9581,Entire home/apt,4,2,2.5,$237.52,30,166,3.0,4.98,319
+1000018,200385,t,Manhattan,Greenwich Village,40.80242,-73.97754,Entire home/apt,2,1,1.0,$394.68,2,13,1.77,4.9,358
+1000019,200314,f,Manhattan,SoHo,40.78701,-73.99221,Entire home/apt,2,2,2.0,$592.77,2,72,0.59,4.91,352
+1000020,200259,f,Brooklyn,Williamsburg,40.689,-73.9225,Entire home/apt,2,1,1.0,$216.69,1,3,1.53,4.57,43
+1000021,200255,f,Manhattan,Lower East Side,40.77538,-73.98785,Private room,2,1,1.0,$117.29,5,45,0.32,4.59,187
+1000022,200023,t,Manhattan,Lower East Side,40.78727,-73.94938,Entire home/apt,8,4,3.0,$106.04,2,9,2.36,4.76,352
+1000023,200393,t,Manhattan,Lower East Side,40.76135,-73.98779,Shared room,1,1,1.0,$58.60,2,13,0.49,4.92,1
+1000024,200246,f,Brooklyn,Bed-Stuy,40.67139,-73.95651,Entire home/apt,2,2,1.5,$217.92,1,19,1.69,4.49,291
+1000025,200339,t,Brooklyn,Bed-Stuy,40.66594,-73.97561,Private room,2,1,1.0,$81.42,2,44,2.41,4.38,310
+1000026,200311,f,Manhattan,Greenwich Village,40.79194,-73.96612,Private room,2,1,1.0,$105.18,1,34,1.2,4.76,342
+1000027,200366,t,Brooklyn,Bushwick,40.65272,-73.92234,Private room,1,1,1.0,$82.25,1,7,1.46,4.94,324
+1000028,200372,f,Brooklyn,Crown Heights,40.70342,-73.95546,Private room,1,1,1.0,$119.92,2,4,2.52,4.9,335
+1000029,200318,t,Manhattan,Upper East Side,40.8006,-73.97979,Private room,1,1,1.0,$152.79,1,25,1.77,4.93,295
+1000030,200087,f,Brooklyn,Park Slope,40.68092,-73.95674,Entire home/apt,6,3,2.2,$315.72,1,3,1.11,4.67,23
+1000031,200219,t,Manhattan,Harlem,40.81631,-73.97564,Entire home/apt,3,2,1.5,$323.03,3,14,0.65,4.77,103
+1000032,200356,f,Manhattan,Chelsea,40.785,-73.98152,Private room,2,1,2.0,$132.23,1,46,2.97,4.68,61
+1000033,200027,f,Bronx,Riverdale,40.87272,-73.8365,Entire home/apt,4,2,2.5,$108.67,2,24,1.43,4.9,152
+1000034,200290,t,Bronx,Pelham Bay,40.86926,-73.85045,Entire home/apt,3,1,1.0,$94.50,1,41,0.75,4.91,262
+1000035,200289,f,Queens,Flushing,40.71883,-73.78248,Private room,1,1,1.0,$47.15,2,4,0.33,4.91,293
+1000036,200348,t,Manhattan,Greenwich Village,40.78299,-73.95151,Entire home/apt,5,2,1.5,$398.48,3,22,1.45,4.89,242
+1000037,200223,t,Manhattan,Midtown,40.79984,-73.98094,Shared room,1,1,1.0,$51.76,3,10,1.16,4.9,341
+1000038,200352,f,Brooklyn,Greenpoint,40.69242,-73.93397,Private room,2,1,1.5,$68.23,1,22,0.66,4.76,341
+1000039,200178,f,Manhattan,Chelsea,40.7415,-73.95919,Private room,1,1,1.0,$108.16,1,57,1.8,4.85,346
+1000040,200148,f,Manhattan,Hell's Kitchen,40.77662,-73.98449,Private room,1,1,2.0,$135.36,1,22,0.67,4.64,120
+1000041,200227,t,Brooklyn,Bushwick,40.66555,-73.94623,Entire home/apt,5,2,1.5,$155.16,2,1,3.46,4.74,352
+1000042,200351,f,Manhattan,SoHo,40.7903,-73.99168,Entire home/apt,2,1,1.2,$271.50,30,51,0.93,4.85,172
+1000043,200186,f,Queens,Ridgewood,40.73105,-73.78625,Entire home/apt,4,2,2.0,$206.49,1,70,0.33,4.73,102
+1000044,200294,t,Manhattan,Lower East Side,40.81103,-73.98735,Entire home/apt,4,3,2.8,$270.10,1,52,1.54,4.77,159
+1000045,200041,f,Brooklyn,Crown Heights,40.67296,-73.94028,Private room,1,1,1.5,$71.36,1,1,2.49,4.65,256
+1000046,200393,f,Manhattan,SoHo,40.80031,-73.97576,Private room,2,1,1.0,$105.34,2,21,0.52,4.7,201
+1000047,200393,t,Brooklyn,Brooklyn Heights,40.69618,-73.97326,Entire home/apt,3,1,1.0,$225.03,3,2,2.09,4.78,44
+1000048,200191,t,Brooklyn,Bushwick,40.6594,-73.93897,Entire home/apt,4,3,2.2,$438.55,2,75,2.29,4.71,63
+1000049,200079,f,Manhattan,Harlem,40.76194,-73.98882,Shared room,1,1,1.0,$89.24,7,42,1.44,4.58,195
+1000050,200205,f,Bronx,Pelham Bay,40.83688,-73.85323,Entire home/apt,8,4,3.0,$126.14,2,54,3.75,4.75,69
+1000051,200384,t,Brooklyn,Williamsburg,40.64976,-73.94165,Entire home/apt,4,2,2.5,$318.37,1,3,0.69,4.83,180
+1000052,200278,t,Bronx,Mott Haven,40.86029,-73.86772,Entire home/apt,4,2,1.5,$129.71,1,18,0.54,4.53,330
+1000053,200272,f,Queens,Flushing,40.72267,-73.78887,Private room,2,1,1.5,$56.00,3,205,0.86,4.96,246
+1000054,200032,f,Brooklyn,Brooklyn Heights,40.67532,-73.92334,Private room,2,1,1.5,$115.99,2,18,1.03,4.95,328
+1000055,200142,t,Bronx,Mott Haven,40.82813,-73.86557,Private room,2,1,1.0,$50.72,2,16,0.97,4.9,157
+1000056,200251,t,Manhattan,Upper East Side,40.78619,-73.97688,Private room,2,1,2.0,$178.54,3,19,0.63,4.91,185
+1000057,200294,f,Manhattan,Chelsea,40.74003,-73.97361,Entire home/apt,4,2,1.5,$279.74,2,57,0.92,4.63,230
+1000058,200098,f,Manhattan,Harlem,40.7966,-73.95953,Entire home/apt,5,3,2.2,$249.97,7,3,1.31,4.67,72
+1000059,200136,f,Manhattan,Lower East Side,40.78842,-73.98767,Private room,1,1,1.5,$137.33,2,5,2.18,4.55,54
+1000060,200277,f,Manhattan,Upper East Side,40.78903,-73.9798,Entire home/apt,3,1,1.2,$374.78,3,6,1.57,4.82,242
+1000061,200312,f,Manhattan,SoHo,40.7884,-73.96938,Private room,2,1,1.0,$96.85,1,2,2.2,4.92,301
+1000062,200302,f,Queens,Flushing,40.71355,-73.80829,Private room,2,1,1.5,$43.16,3,62,0.79,4.59,352
+1000063,200043,t,Manhattan,Hell's Kitchen,40.78843,-73.97452,Private room,2,1,1.0,$76.20,30,21,1.26,4.84,214
+1000064,200120,t,Manhattan,Midtown,40.7705,-73.98504,Private room,1,1,2.0,$81.04,2,1,0.99,4.76,14
+1000065,200220,f,Brooklyn,Williamsburg,40.67364,-73.92068,Private room,2,1,1.0,$133.34,3,20,0.41,4.49,146
+1000066,200046,f,Manhattan,Hell's Kitchen,40.77521,-73.97141,Private room,2,1,1.0,$114.07,3,30,0.16,4.79,143
+1000067,200236,f,Queens,Sunnyside,40.72972,-73.81187,Entire home/apt,4,2,1.5,$156.76,1,43,0.75,4.91,24
+1000068,200048,t,Manhattan,Upper East Side,40.75666,-73.9866,Entire home/apt,2,1,1.2,$191.98,2,82,1.98,4.95,98
+1000069,200198,f,Staten Island,St. George,40.58321,-74.14889,Entire home/apt,4,2,1.5,$50.43,1,9,1.53,4.89,178
+1000070,200084,f,Brooklyn,Bushwick,40.68874,-73.94275,Private room,1,1,1.0,$76.32,30,26,1.36,4.23,332
+1000071,200031,t,Manhattan,Hell's Kitchen,40.78146,-73.98026,Entire home/apt,3,1,1.2,$313.26,5,0,,5.0,173
+1000072,200161,f,Manhattan,Greenwich Village,40.79637,-73.98499,Private room,2,1,1.0,$177.89,1,5,0.66,4.88,262
+1000073,200071,f,Queens,Sunnyside,40.71154,-73.78639,Entire home/apt,3,2,1.5,$181.48,1,10,1.64,4.95,289
+1000074,200008,f,Brooklyn,Greenpoint,40.6582,-73.90798,Private room,2,1,2.0,$80.48,2,1,0.97,4.86,57
+1000075,200386,f,Brooklyn,Williamsburg,40.6794,-73.93898,Entire home/apt,6,3,2.2,$208.59,2,22,1.69,4.85,333
+1000076,200052,f,Brooklyn,Williamsburg,40.66607,-73.94893,Private room,1,1,1.0,$103.21,1,7,2.42,4.65,278
+1000077,200045,f,Manhattan,SoHo,40.7767,-73.97933,Private room,1,1,1.0,$141.68,2,75,0.42,4.52,144
+1000078,200293,t,Manhattan,SoHo,40.79259,-73.97794,Entire home/apt,3,1,1.0,$579.11,2,24,2.05,4.63,121
+1000079,200300,t,Manhattan,Hell's Kitchen,40.79836,-73.93125,Entire home/apt,5,2,1.5,$169.43,1,27,1.57,4.75,26
+1000080,200373,f,Queens,Flushing,40.72377,-73.79262,Private room,3,1,1.5,$93.32,5,136,0.86,4.79,65
+1000081,200038,f,Brooklyn,Greenpoint,40.68389,-73.91703,Entire home/apt,4,2,1.5,$249.93,30,42,0.14,4.91,100
+1000082,200355,f,Manhattan,Upper East Side,40.78186,-73.98364,Entire home/apt,4,2,2.0,$238.53,3,7,1.35,4.81,93
+1000083,200380,f,Manhattan,Chelsea,40.7641,-73.97207,Shared room,1,1,1.0,$37.10,5,13,5.55,4.72,66
+1000084,200231,t,Manhattan,Lower East Side,40.77637,-73.94105,Private room,1,1,1.0,$146.77,1,75,0.3,4.71,249
+1000085,200262,f,Manhattan,Greenwich Village,40.80965,-73.98672,Shared room,1,1,1.0,$36.09,1,4,0.39,4.89,141
+1000086,200068,t,Brooklyn,Bed-Stuy,40.66754,-73.94309,Entire home/apt,8,4,3.0,$276.59,1,98,1.58,4.84,266
+1000087,200179,f,Brooklyn,Crown Heights,40.69916,-73.94334,Entire home/apt,3,1,1.2,$301.15,3,118,0.39,4.66,39
+1000088,200357,f,Queens,Sunnyside,40.71849,-73.79578,Private room,1,1,1.5,$93.25,30,34,2.19,4.87,214
+1000089,200186,f,Brooklyn,Bed-Stuy,40.66877,-73.93516,Private room,1,1,1.5,$110.53,3,39,1.5,4.93,130
+1000090,200201,t,Manhattan,Hell's Kitchen,40.77246,-73.97886,Private room,2,1,2.0,$80.51,7,45,0.54,4.92,0
+1000091,200390,t,Brooklyn,Bushwick,40.69563,-73.95573,Entire home/apt,2,1,1.2,$139.80,2,9,0.67,4.43,8
+1000092,200013,f,Brooklyn,DUMBO,40.65651,-73.94278,Entire home/apt,3,1,1.8,$132.70,2,133,0.32,4.69,328
+1000093,200214,f,Brooklyn,Brooklyn Heights,40.67279,-73.93653,Entire home/apt,5,2,2.5,$177.52,2,16,2.58,4.78,331
+1000094,200220,f,Brooklyn,Bushwick,40.68296,-73.94468,Entire home/apt,3,1,1.0,$162.42,1,29,2.61,4.71,143
+1000095,200286,t,Brooklyn,Greenpoint,40.67728,-73.95524,Entire home/apt,6,4,3.0,$203.09,1,10,2.91,4.45,349
+1000096,200244,f,Brooklyn,Park Slope,40.67945,-73.93098,Entire home/apt,6,4,3.0,$360.91,3,36,0.8,4.71,327
+1000097,200356,f,Manhattan,Midtown,40.7685,-73.97128,Shared room,1,1,1.0,$81.96,2,3,0.61,4.95,301
+1000098,200258,t,Manhattan,Harlem,40.79868,-73.96362,Entire home/apt,4,2,1.5,$293.41,2,24,1.38,4.57,137
+1000099,200058,f,Manhattan,Harlem,40.80274,-73.97972,Private room,2,1,1.0,$206.76,2,35,2.36,4.86,357
+1000100,200036,t,Manhattan,Lower East Side,40.75564,-73.96819,Private room,2,1,2.0,$127.04,1,4,0.6,4.96,296
+1000101,200328,f,Brooklyn,Williamsburg,40.68364,-73.92367,Private room,2,1,1.0,$84.27,2,48,0.52,4.67,178
+1000102,200393,f,Manhattan,Harlem,40.80092,-73.96315,Entire home/apt,8,4,3.0,$397.87,2,0,,5.0,277
+1000103,200382,f,Brooklyn,Bushwick,40.68968,-73.94708,Private room,3,1,1.0,$104.20,2,2,0.41,4.82,143
+1000104,200193,f,Queens,Sunnyside,40.70991,-73.79313,Private room,1,1,1.0,$44.39,5,18,1.58,4.7,338
+1000105,200333,f,Manhattan,Chelsea,40.79784,-73.96135,Private room,1,1,1.0,$223.78,2,7,1.06,4.43,189
+1000106,200050,t,Manhattan,Midtown,40.79561,-73.97762,Private room,3,1,1.5,$94.24,2,19,0.77,4.98,330
+1000107,200032,f,Brooklyn,Greenpoint,40.67422,-73.93695,Shared room,1,1,1.0,$53.00,7,4,1.16,4.81,269
+1000108,200098,f,Manhattan,Hell's Kitchen,40.7749,-73.97894,Private room,2,1,2.0,$176.67,7,33,1.12,4.79,186
+1000109,200043,f,Manhattan,Midtown,40.78757,-73.95979,Entire home/apt,4,3,2.2,$311.10,7,31,1.71,4.87,153
+1000110,200381,t,Manhattan,Chelsea,40.78011,-73.98865,Private room,1,1,1.0,$126.55,1,27,1.78,4.74,171
+1000111,200351,f,Manhattan,Lower East Side,40.77206,-73.96814,Entire home/apt,4,2,1.5,$182.33,1,2,0.09,4.77,246
+1000112,200334,t,Bronx,Riverdale,40.84767,-73.86118,Private room,3,1,1.0,$58.67,1,26,3.12,4.86,10
+1000113,200310,t,Queens,Ridgewood,40.73602,-73.79481,Entire home/apt,3,2,2.0,$93.59,1,54,1.51,4.79,46
+1000114,200047,f,Brooklyn,Bed-Stuy,40.68218,-73.94488,Entire home/apt,3,2,1.5,$160.06,30,32,2.1,4.67,265
+1000115,200270,t,Queens,Long Island City,40.74543,-73.77341,Private room,2,1,1.0,$40.46,2,107,2.0,4.8,316
+1000116,200311,f,Queens,Flushing,40.71036,-73.79873,Private room,1,1,1.0,$91.96,1,64,2.96,4.78,110
+1000117,200063,t,Manhattan,Hell's Kitchen,40.78359,-73.9752,Entire home/apt,4,2,1.5,$205.46,1,1,2.63,4.62,300
+1000118,200019,f,Queens,Ridgewood,40.75509,-73.79154,Entire home/apt,6,4,3.5,$187.99,1,21,2.52,4.34,302
+1000119,200347,f,Brooklyn,Williamsburg,40.66612,-73.93525,Private room,1,1,1.5,$123.45,2,24,0.47,4.68,278
+1000120,200393,f,Queens,Ridgewood,40.73226,-73.79034,Entire home/apt,4,2,2.0,$175.54,3,0,,5.0,291
+1000121,200101,t,Queens,Long Island City,40.75532,-73.78964,Private room,2,1,2.0,$84.68,7,2,0.16,4.79,251
+1000122,200037,f,Manhattan,Harlem,40.77855,-74.00053,Entire home/apt,3,2,1.5,$223.38,30,88,2.44,4.83,75
+1000123,200107,f,Manhattan,Hell's Kitchen,40.78062,-73.95161,Private room,1,1,2.0,$101.38,1,84,0.97,4.91,174
+1000124,200092,f,Manhattan,Upper East Side,40.78173,-74.0048,Private room,2,1,2.0,$176.99,2,6,1.29,4.93,108
+1000125,200308,t,Manhattan,Harlem,40.77562,-73.95631,Entire home/apt,6,3,2.2,$226.31,1,35,1.61,4.83,339
+1000126,200185,t,Queens,Flushing,40.73639,-73.8075,Entire home/apt,5,2,2.0,$202.30,2,29,2.27,4.45,335
+1000127,200216,f,Queens,Ridgewood,40.71972,-73.80106,Entire home/apt,2,2,2.5,$101.35,30,85,3.18,4.55,13
+1000128,200028,t,Manhattan,Midtown,40.77316,-74.00165,Private room,1,1,1.0,$121.57,2,23,3.19,4.9,180
+1000129,200036,f,Brooklyn,Williamsburg,40.68965,-73.92534,Private room,2,1,1.0,$52.89,3,62,0.32,4.84,321
+1000130,200372,t,Manhattan,Chelsea,40.76032,-73.95254,Private room,2,1,1.0,$62.70,2,90,1.35,4.78,271
+1000131,200320,f,Manhattan,Harlem,40.78155,-73.95282,Entire home/apt,2,2,2.0,$206.13,1,13,0.41,4.95,42
+1000132,200018,f,Manhattan,Midtown,40.78367,-73.96917,Entire home/apt,5,3,2.2,$218.82,1,10,0.67,4.97,101
+1000133,200345,f,Manhattan,Hell's Kitchen,40.78869,-73.98305,Entire home/apt,3,1,1.0,$247.60,2,4,3.26,4.73,112
+1000134,200196,f,Bronx,Pelham Bay,40.86272,-73.88162,Entire home/apt,4,2,1.5,$108.98,3,4,3.91,4.68,192
+1000135,200078,f,Manhattan,Harlem,40.77707,-73.96334,Private room,2,1,1.0,$87.00,1,25,1.88,4.51,8
+1000136,200167,f,Brooklyn,Brooklyn Heights,40.67056,-73.93254,Private room,1,1,1.0,$114.83,3,24,1.56,4.9,148
+1000137,200090,f,Brooklyn,Crown Heights,40.69884,-73.92901,Private room,2,1,1.5,$105.81,5,23,1.9,4.72,337
+1000138,200264,f,Manhattan,Midtown,40.75406,-73.96931,Entire home/apt,3,1,1.0,$285.31,2,5,3.08,4.93,223
+1000139,200208,f,Staten Island,St. George,40.59493,-74.16995,Shared room,1,1,1.0,$25.00,3,53,1.88,4.69,109
+1000140,200212,t,Bronx,Mott Haven,40.85565,-73.85479,Private room,2,1,1.0,$72.28,2,1,0.46,4.43,353
+1000141,200271,f,Manhattan,Harlem,40.76492,-73.95869,Private room,2,1,1.5,$100.21,3,5,1.21,4.86,83
+1000142,200263,t,Brooklyn,Crown Heights,40.68229,-73.93444,Private room,1,1,1.0,$72.69,3,12,1.09,4.67,42
+1000143,200273,f,Manhattan,Lower East Side,40.76861,-73.96895,Entire home/apt,6,3,2.2,$360.87,30,2,0.56,4.89,65
+1000144,200342,f,Manhattan,Hell's Kitchen,40.75753,-74.00535,Entire home/apt,5,2,1.5,$143.50,2,11,2.28,4.74,108
+1000145,200214,f,Manhattan,Harlem,40.78521,-73.95469,Private room,1,1,1.0,$189.55,2,4,3.05,4.81,101
+1000146,200374,f,Brooklyn,Greenpoint,40.68199,-73.94515,Entire home/apt,5,3,2.2,$194.68,1,13,0.85,4.53,134
+1000147,200064,f,Brooklyn,Bushwick,40.67539,-73.95834,Entire home/apt,2,1,1.2,$238.05,1,3,0.35,4.72,85
+1000148,200012,t,Manhattan,Chelsea,40.77977,-73.96487,Private room,2,1,1.5,$102.96,3,20,0.82,4.87,83
+1000149,200210,f,Manhattan,Midtown,40.77657,-73.95994,Private room,1,1,1.0,$81.01,30,8,1.41,4.97,226
+1000150,200312,t,Queens,Long Island City,40.73114,-73.79015,Private room,2,1,1.0,$201.87,2,93,1.43,4.8,259
+1000151,200174,f,Manhattan,Hell's Kitchen,40.79643,-73.9791,Entire home/apt,5,2,1.5,$179.26,1,32,1.83,4.66,19
+1000152,200256,t,Manhattan,Hell's Kitchen,40.79299,-73.977,Entire home/apt,2,1,1.0,$201.79,1,91,2.1,4.78,34
+1000153,200101,f,Brooklyn,DUMBO,40.68329,-73.95389,Private room,2,1,1.0,$175.19,2,6,3.12,4.56,352
+1000154,200016,f,Staten Island,Todt Hill,40.56584,-74.14882,Shared room,1,1,1.0,$31.15,1,45,2.52,4.74,242
+1000155,200197,t,Manhattan,Midtown,40.75482,-73.97564,Private room,1,1,1.0,$165.25,1,23,2.46,4.73,269
+1000156,200258,f,Brooklyn,DUMBO,40.6541,-73.93251,Private room,2,1,1.5,$127.13,3,1,1.33,4.75,222
+1000157,200384,t,Brooklyn,Williamsburg,40.69395,-73.95716,Private room,1,1,1.0,$122.91,1,1,0.44,4.76,303
+1000158,200244,f,Manhattan,Midtown,40.78952,-73.95771,Private room,1,1,1.5,$164.19,2,51,1.89,4.77,157
+1000159,200348,f,Brooklyn,Williamsburg,40.69174,-73.94098,Entire home/apt,3,1,1.0,$240.11,3,2,2.08,4.85,284
+1000160,200249,t,Manhattan,SoHo,40.79411,-73.98094,Private room,2,1,1.0,$72.22,1,31,2.46,4.92,35
+1000161,200105,t,Brooklyn,Greenpoint,40.67945,-73.95121,Private room,1,1,1.0,$81.96,2,12,0.6,4.83,297
+1000162,200182,f,Brooklyn,Williamsburg,40.66719,-73.94366,Private room,2,1,1.5,$48.97,3,1,2.99,4.75,28
+1000163,200155,t,Brooklyn,Bed-Stuy,40.68341,-73.92675,Entire home/apt,5,2,2.0,$159.26,3,197,1.73,4.87,254
+1000164,200287,f,Manhattan,Chelsea,40.78708,-73.96157,Private room,1,1,1.0,$180.63,2,77,0.48,4.77,141
+1000165,200169,t,Queens,Long Island City,40.738,-73.75459,Entire home/apt,2,2,2.0,$126.30,2,40,0.29,4.96,133
+1000166,200047,t,Manhattan,Harlem,40.75595,-73.98152,Entire home/apt,4,2,1.5,$296.15,5,11,1.33,4.63,143
+1000167,200043,f,Manhattan,Lower East Side,40.80521,-73.97648,Entire home/apt,5,2,2.0,$148.50,3,8,1.51,4.67,296
+1000168,200321,t,Manhattan,Upper East Side,40.79639,-73.96775,Private room,1,1,1.5,$152.57,2,19,0.67,4.57,340
+1000169,200306,f,Brooklyn,Greenpoint,40.70978,-73.9609,Entire home/apt,3,1,1.2,$99.97,1,5,1.42,4.64,244
+1000170,200221,t,Brooklyn,Park Slope,40.69653,-73.91796,Entire home/apt,4,2,2.0,$364.78,1,131,1.63,4.85,253
+1000171,200001,t,Manhattan,Upper East Side,40.76788,-73.95946,Entire home/apt,3,1,1.2,$301.89,1,79,2.75,4.87,363
+1000172,200200,f,Brooklyn,Greenpoint,40.66372,-73.94375,Private room,2,1,1.5,$57.90,2,82,1.34,4.66,4
+1000173,200144,f,Manhattan,Upper East Side,40.77925,-74.00724,Entire home/apt,6,3,2.8,$189.26,1,20,1.9,4.65,265
+1000174,200378,f,Brooklyn,DUMBO,40.68456,-73.94205,Entire home/apt,5,3,2.2,$270.50,2,1,3.02,4.79,238
+1000175,200028,t,Manhattan,Lower East Side,40.80529,-73.96203,Private room,1,1,1.0,$87.45,3,10,1.28,4.94,249
+1000176,200342,f,Brooklyn,DUMBO,40.71256,-73.94259,Entire home/apt,5,2,2.0,$158.71,1,1,0.8,4.92,290
+1000177,200338,f,Manhattan,Upper East Side,40.78152,-73.97397,Private room,2,1,1.0,$87.50,3,9,2.0,4.9,30
+1000178,200278,t,Bronx,Pelham Bay,40.83821,-73.89792,Private room,1,1,2.0,$54.32,3,39,2.38,4.32,119
+1000179,200041,f,Manhattan,Chelsea,40.7798,-74.00222,Entire home/apt,5,2,1.5,$207.43,1,17,2.99,4.82,78
+1000180,200332,f,Manhattan,Midtown,40.78988,-73.9898,Entire home/apt,2,1,1.8,$243.89,3,55,0.98,4.77,8
+1000181,200147,f,Manhattan,Hell's Kitchen,40.76969,-73.98124,Private room,1,1,1.0,$148.91,3,31,1.04,4.53,43
+1000182,200345,f,Bronx,Pelham Bay,40.84173,-73.8647,Entire home/apt,5,2,2.5,$133.97,2,95,2.17,4.43,221
+1000183,200178,f,Queens,Ridgewood,40.74447,-73.80356,Entire home/apt,4,2,2.5,$109.14,1,11,1.86,4.76,143
+1000184,200315,t,Manhattan,Greenwich Village,40.7903,-73.93024,Entire home/apt,4,2,1.5,$148.59,2,15,2.19,4.47,119
+1000185,200325,f,Brooklyn,Brooklyn Heights,40.68386,-73.94691,Private room,1,1,1.0,$76.58,30,11,1.86,4.73,52
+1000186,200167,t,Queens,Astoria,40.71651,-73.79781,Entire home/apt,8,4,3.0,$167.35,2,40,1.22,4.95,64
+1000187,200123,f,Brooklyn,Greenpoint,40.66491,-73.94017,Private room,1,1,1.0,$148.42,1,9,1.24,4.7,175
+1000188,200074,f,Brooklyn,Williamsburg,40.67975,-73.97663,Private room,3,1,2.0,$134.50,3,29,1.29,4.59,69
+1000189,200239,f,Manhattan,Lower East Side,40.78282,-73.95506,Entire home/apt,3,2,1.5,$206.52,2,6,2.6,4.95,301
+1000190,200249,f,Manhattan,Lower East Side,40.77711,-73.98099,Entire home/apt,3,1,1.2,$180.49,2,1,2.71,4.8,120
+1000191,200263,t,Queens,Astoria,40.70753,-73.82277,Shared room,1,1,1.0,$44.43,3,25,0.25,4.91,202
+1000192,200252,f,Queens,Long Island City,40.74067,-73.79762,Entire home/apt,2,1,1.0,$167.62,2,9,2.09,4.87,288
+1000193,200357,f,Brooklyn,Bushwick,40.68978,-73.92123,Private room,2,1,1.0,$96.90,5,138,2.79,4.7,179
+1000194,200111,f,Manhattan,Hell's Kitchen,40.79692,-73.97934,Entire home/apt,6,4,3.5,$323.55,3,7,1.48,4.88,80
+1000195,200180,f,Manhattan,Hell's Kitchen,40.78527,-73.98042,Entire home/apt,4,3,2.2,$297.65,2,20,0.04,4.66,54
+1000196,200188,t,Brooklyn,DUMBO,40.66758,-73.93906,Entire home/apt,4,2,2.5,$116.92,1,183,1.6,4.93,178
+1000197,200308,f,Queens,Sunnyside,40.71572,-73.82804,Entire home/apt,3,1,1.0,$111.46,5,18,0.98,4.92,97
+1000198,200207,t,Queens,Sunnyside,40.71488,-73.7995,Entire home/apt,3,2,2.0,$143.14,30,13,1.66,4.46,109
+1000199,200234,f,Brooklyn,Greenpoint,40.70102,-73.95156,Private room,2,1,1.0,$57.88,1,26,3.27,4.69,152
+1000200,200024,t,Brooklyn,Park Slope,40.68588,-73.94672,Entire home/apt,2,1,1.2,$301.24,2,64,1.86,4.72,124
+1000201,200026,f,Manhattan,Greenwich Village,40.8015,-73.95384,Entire home/apt,4,2,1.5,$203.00,1,32,3.39,4.97,90
+1000202,200381,f,Manhattan,Lower East Side,40.80074,-73.99721,Entire home/apt,4,3,3.2,$247.04,3,19,0.66,4.73,293
+1000203,200218,t,Queens,Flushing,40.7313,-73.78352,Private room,1,1,1.5,$138.22,3,67,2.57,4.67,36
+1000204,200346,f,Brooklyn,Bushwick,40.68392,-73.93465,Entire home/apt,4,2,2.5,$168.59,1,70,2.23,4.79,4
+1000205,200378,f,Manhattan,Hell's Kitchen,40.78398,-73.98237,Private room,1,1,1.0,$99.22,7,10,1.4,4.85,337
+1000206,200010,f,Manhattan,Chelsea,40.75764,-73.98088,Entire home/apt,4,2,2.5,$226.90,1,5,0.18,4.73,149
+1000207,200017,t,Brooklyn,Greenpoint,40.71837,-73.95148,Entire home/apt,6,3,2.2,$144.34,3,9,1.35,4.68,365
+1000208,200245,t,Manhattan,Upper East Side,40.75371,-73.96021,Entire home/apt,3,1,1.0,$230.50,2,33,0.75,4.71,315
+1000209,200206,t,Manhattan,Harlem,40.79593,-73.95189,Private room,1,1,2.0,$78.21,2,48,0.25,4.98,171
+1000210,200258,t,Brooklyn,DUMBO,40.68526,-73.93152,Entire home/apt,2,1,1.2,$214.59,1,18,0.81,4.86,261
+1000211,200112,f,Brooklyn,Park Slope,40.7058,-73.95538,Entire home/apt,3,2,2.0,$218.11,1,57,1.94,4.82,26
+1000212,200205,f,Brooklyn,Brooklyn Heights,40.66404,-73.96062,Entire home/apt,3,1,1.0,$106.72,3,23,1.58,4.97,54
+1000213,200027,f,Manhattan,Lower East Side,40.77911,-73.9497,Private room,3,1,1.0,$137.45,2,26,1.32,4.93,319
+1000214,200071,f,Brooklyn,Williamsburg,40.68612,-73.93687,Entire home/apt,3,2,1.5,$222.64,1,44,0.5,4.85,248
+1000215,200176,f,Manhattan,Chelsea,40.75581,-73.9816,Entire home/apt,2,1,1.2,$202.64,1,13,0.14,4.93,272
+1000216,200202,t,Manhattan,Upper East Side,40.75557,-73.95363,Entire home/apt,3,1,1.0,$354.92,1,19,0.61,4.86,258
+1000217,200248,t,Brooklyn,Greenpoint,40.70198,-73.93251,Entire home/apt,6,4,3.0,$158.08,3,32,1.09,4.69,265
+1000218,200118,f,Brooklyn,Brooklyn Heights,40.6634,-73.92197,Private room,2,1,1.0,$69.37,3,55,0.8,4.29,190
+1000219,200009,f,Queens,Long Island City,40.7244,-73.81312,Private room,3,1,2.0,$62.89,1,3,1.04,4.94,62
+1000220,200086,f,Brooklyn,Greenpoint,40.66373,-73.95065,Entire home/apt,5,3,2.2,$194.99,2,67,3.54,4.73,344
+1000221,200023,t,Brooklyn,Bushwick,40.67894,-73.94662,Entire home/apt,3,1,1.0,$89.17,1,34,1.37,4.76,340
+1000222,200240,t,Manhattan,Lower East Side,40.76191,-73.953,Entire home/apt,2,1,1.2,$164.77,30,62,2.69,4.78,103
+1000223,200073,t,Manhattan,Chelsea,40.78084,-73.98191,Entire home/apt,5,2,1.5,$344.53,30,49,0.73,4.48,287
+1000224,200027,f,Manhattan,SoHo,40.79975,-73.98895,Entire home/apt,2,1,1.8,$204.46,3,29,0.7,4.49,258
+1000225,200349,f,Manhattan,Midtown,40.75867,-73.95211,Private room,2,1,1.0,$88.26,30,4,0.35,4.82,160
+1000226,200081,t,Staten Island,St. George,40.60787,-74.15713,Shared room,1,1,1.0,$32.72,5,26,1.44,4.63,170
+1000227,200084,f,Manhattan,Greenwich Village,40.78241,-73.9884,Shared room,1,1,1.0,$39.88,5,23,0.55,4.82,108
+1000228,200199,f,Queens,Long Island City,40.72828,-73.80204,Private room,2,1,1.0,$61.90,2,8,4.76,4.87,139
+1000229,200043,f,Brooklyn,Brooklyn Heights,40.67667,-73.93806,Private room,2,1,1.0,$101.62,2,5,1.15,4.82,92
+1000230,200263,f,Brooklyn,Park Slope,40.66173,-73.94963,Private room,2,1,1.0,$78.44,1,19,1.22,4.82,102
+1000231,200092,t,Brooklyn,Greenpoint,40.65114,-73.94952,Entire home/apt,6,3,2.2,$187.84,2,38,1.08,4.91,225
+1000232,200339,f,Brooklyn,Bushwick,40.6768,-73.94077,Private room,2,1,1.5,$97.33,2,3,0.76,4.98,352
+1000233,200084,t,Brooklyn,Bed-Stuy,40.68179,-73.93064,Entire home/apt,5,2,1.5,$360.79,1,82,2.74,4.93,159
+1000234,200300,f,Manhattan,Hell's Kitchen,40.76001,-73.99349,Entire home/apt,2,1,1.2,$443.60,1,74,1.7,4.58,194
+1000235,200296,f,Brooklyn,Bed-Stuy,40.68613,-73.97478,Private room,1,1,1.5,$111.72,2,12,0.28,4.72,323
+1000236,200135,f,Manhattan,Lower East Side,40.78585,-73.9889,Entire home/apt,2,2,1.5,$104.36,1,20,0.27,4.73,144
+1000237,200281,f,Manhattan,SoHo,40.80669,-73.96744,Entire home/apt,4,2,2.0,$166.14,2,144,0.4,4.71,241
+1000238,200059,f,Brooklyn,Park Slope,40.67491,-73.92578,Private room,2,1,2.0,$99.17,30,25,0.47,4.93,131
+1000239,200397,f,Manhattan,Hell's Kitchen,40.76715,-73.9843,Entire home/apt,4,2,1.5,$321.76,3,48,0.98,4.66,92
+1000240,200359,f,Bronx,Pelham Bay,40.82588,-73.87778,Entire home/apt,4,2,1.5,$109.12,3,51,2.44,4.88,272
+1000241,200342,t,Bronx,Riverdale,40.84572,-73.85739,Private room,2,1,1.0,$85.08,2,24,1.38,4.81,191
+1000242,200241,f,Queens,Long Island City,40.74262,-73.82227,Private room,2,1,1.5,$110.27,2,26,0.38,4.42,21
+1000243,200368,f,Manhattan,Greenwich Village,40.78052,-73.98782,Private room,2,1,1.5,$56.16,1,20,0.63,4.83,193
+1000244,200342,f,Manhattan,Harlem,40.78002,-73.93619,Entire home/apt,5,3,2.2,$337.61,7,22,0.25,4.89,169
+1000245,200098,f,Bronx,Mott Haven,40.84918,-73.85131,Entire home/apt,3,1,1.0,$128.76,1,53,1.18,4.83,10
+1000246,200062,f,Manhattan,Hell's Kitchen,40.81251,-73.95429,Private room,1,1,2.0,$93.58,1,5,2.35,4.91,180
+1000247,200264,f,Bronx,Mott Haven,40.83808,-73.88394,Private room,2,1,1.0,$45.21,3,54,4.61,4.72,231
+1000248,200113,f,Bronx,Pelham Bay,40.84435,-73.87332,Entire home/apt,4,2,1.5,$115.36,1,12,0.55,4.71,28
+1000249,200146,f,Queens,Flushing,40.70533,-73.79129,Entire home/apt,5,3,2.2,$193.57,2,23,1.78,4.72,19
+1000250,200216,t,Manhattan,Chelsea,40.78709,-73.94466,Entire home/apt,2,1,1.0,$323.58,1,36,3.98,4.72,4
+1000251,200256,f,Manhattan,Upper East Side,40.77767,-73.967,Shared room,1,1,1.0,$29.64,1,6,2.41,4.68,33
+1000252,200316,f,Queens,Flushing,40.71822,-73.7818,Entire home/apt,3,1,1.0,$199.17,1,0,,5.0,139
+1000253,200316,f,Manhattan,Greenwich Village,40.78123,-73.98879,Private room,2,1,1.0,$99.40,1,9,1.67,4.87,27
+1000254,200362,f,Manhattan,SoHo,40.7829,-73.96534,Entire home/apt,4,2,2.0,$241.69,3,26,3.24,4.86,97
+1000255,200258,f,Brooklyn,Bed-Stuy,40.68203,-73.92851,Private room,3,1,1.5,$78.01,5,52,0.68,4.42,261
+1000256,200194,f,Bronx,Riverdale,40.82308,-73.87744,Private room,1,1,2.0,$56.25,2,52,1.81,4.77,245
+1000257,200347,f,Brooklyn,Park Slope,40.6878,-73.95508,Private room,2,1,1.0,$234.56,7,17,1.13,4.93,18
+1000258,200014,t,Brooklyn,Park Slope,40.68181,-73.9805,Entire home/apt,4,2,1.5,$134.47,1,7,0.78,4.27,11
+1000259,200304,f,Manhattan,Midtown,40.82384,-73.97525,Private room,2,1,1.0,$172.01,2,148,0.46,4.77,24
+1000260,200103,f,Brooklyn,Park Slope,40.69611,-73.94925,Private room,2,1,1.5,$177.12,1,64,4.59,4.86,12
+1000261,200245,t,Staten Island,Todt Hill,40.58572,-74.12782,Entire home/apt,3,1,1.0,$52.05,2,10,0.59,4.96,75
+1000262,200245,f,Manhattan,Midtown,40.80059,-73.97427,Private room,2,1,1.0,$116.02,2,2,1.51,4.78,258
+1000263,200312,f,Brooklyn,Greenpoint,40.67617,-73.92915,Private room,1,1,1.0,$122.24,2,13,1.85,4.87,23
+1000264,200268,f,Queens,Ridgewood,40.7632,-73.79202,Private room,3,1,1.0,$74.19,3,17,0.42,4.95,7
+1000265,200224,t,Brooklyn,Park Slope,40.70756,-73.94782,Private room,2,1,1.0,$141.11,2,92,1.99,4.79,227
+1000266,200220,t,Brooklyn,DUMBO,40.69248,-73.92768,Entire home/apt,5,3,3.2,$166.36,2,48,3.47,4.78,122
+1000267,200311,f,Brooklyn,Bed-Stuy,40.67205,-73.95541,Entire home/apt,4,2,2.0,$268.85,30,19,2.25,4.94,89
+1000268,200366,t,Manhattan,Hell's Kitchen,40.80028,-73.97917,Entire home/apt,2,1,1.0,$287.18,1,26,1.24,4.72,300
+1000269,200217,f,Manhattan,Chelsea,40.76968,-73.98146,Private room,1,1,1.0,$86.91,2,12,1.43,4.93,223
+1000270,200004,t,Queens,Ridgewood,40.72017,-73.78205,Private room,1,1,1.0,$144.26,3,19,1.17,4.62,223
+1000271,200036,f,Queens,Sunnyside,40.73593,-73.78417,Private room,1,1,1.0,$49.44,2,12,0.84,4.76,256
+1000272,200178,t,Queens,Sunnyside,40.73452,-73.80381,Entire home/apt,4,2,2.0,$205.32,1,3,0.54,4.88,2
+1000273,200387,t,Queens,Sunnyside,40.73866,-73.77716,Entire home/apt,3,1,1.2,$312.03,2,9,0.95,4.73,320
+1000274,200257,f,Brooklyn,Greenpoint,40.68697,-73.93746,Private room,1,1,1.0,$57.42,2,14,1.57,4.88,270
+1000275,200017,t,Brooklyn,Bushwick,40.66669,-73.94102,Entire home/apt,6,3,2.2,$288.46,2,88,3.58,4.86,305
+1000276,200199,f,Brooklyn,Bushwick,40.6659,-73.94456,Entire home/apt,5,2,1.5,$306.88,1,13,1.09,4.63,147
+1000277,200318,f,Brooklyn,Crown Heights,40.6536,-73.96869,Private room,2,1,1.0,$53.11,30,24,1.12,4.9,188
+1000278,200048,f,Brooklyn,DUMBO,40.67533,-73.95243,Entire home/apt,2,1,1.0,$124.90,3,101,0.8,4.74,186
+1000279,200062,f,Brooklyn,Williamsburg,40.6798,-73.94622,Entire home/apt,5,2,2.0,$263.26,2,18,3.88,4.93,187
+1000280,200069,t,Queens,Flushing,40.72865,-73.78577,Entire home/apt,2,1,1.8,$144.21,3,4,1.27,4.85,123
+1000281,200147,t,Manhattan,Hell's Kitchen,40.77615,-73.97449,Entire home/apt,5,2,2.0,$341.57,7,18,2.25,4.78,36
+1000282,200359,f,Manhattan,Midtown,40.80493,-73.97115,Hotel room,2,1,1.0,$430.58,1,21,1.95,4.72,148
+1000283,200366,f,Manhattan,Chelsea,40.78041,-73.96996,Entire home/apt,5,2,1.5,$275.19,1,14,2.37,4.92,105
+1000284,200162,f,Brooklyn,DUMBO,40.67578,-73.95484,Entire home/apt,3,2,1.5,$195.15,2,81,2.37,4.97,102
+1000285,200227,f,Manhattan,SoHo,40.76813,-73.98265,Entire home/apt,4,2,1.5,$232.86,3,16,1.13,4.77,231
+1000286,200347,f,Brooklyn,DUMBO,40.69129,-73.95365,Private room,2,1,1.0,$178.21,1,56,0.89,4.68,354
+1000287,200230,t,Brooklyn,Crown Heights,40.67588,-73.93369,Entire home/apt,4,2,2.5,$200.05,30,47,3.88,4.64,145
+1000288,200370,f,Manhattan,Chelsea,40.77892,-73.9617,Private room,1,1,2.0,$139.38,2,17,0.88,4.53,16
+1000289,200178,f,Brooklyn,DUMBO,40.65509,-73.94619,Entire home/apt,4,3,2.2,$175.60,2,3,1.41,4.93,158
+1000290,200345,f,Manhattan,Lower East Side,40.78428,-73.97085,Entire home/apt,5,2,2.5,$541.41,1,43,0.74,4.91,303
+1000291,200056,f,Manhattan,Upper East Side,40.75831,-73.95315,Entire home/apt,5,2,2.0,$183.41,1,17,2.32,4.52,281
+1000292,200078,t,Queens,Sunnyside,40.71538,-73.78987,Private room,2,1,1.0,$26.80,3,57,1.07,4.79,277
+1000293,200270,t,Manhattan,Harlem,40.78322,-73.95614,Private room,2,1,1.0,$198.33,30,78,0.82,4.98,124
+1000294,200206,f,Manhattan,Lower East Side,40.81591,-73.99056,Entire home/apt,4,2,2.0,$433.22,2,7,1.47,4.88,172
+1000295,200281,f,Brooklyn,DUMBO,40.66847,-73.94136,Private room,2,1,1.0,$135.77,30,46,3.28,4.84,319
+1000296,200228,f,Brooklyn,Brooklyn Heights,40.66162,-73.93247,Private room,2,1,1.0,$94.17,5,5,0.72,4.85,162
+1000297,200388,t,Manhattan,Greenwich Village,40.79575,-73.96281,Entire home/apt,4,2,1.5,$148.07,2,10,2.52,4.91,202
+1000298,200239,t,Brooklyn,DUMBO,40.68175,-73.92365,Private room,1,1,1.0,$98.00,3,44,0.77,4.91,337
+1000299,200288,f,Manhattan,Harlem,40.76577,-73.97022,Entire home/apt,5,3,2.2,$155.56,2,20,0.2,4.7,154
+1000300,200082,f,Manhattan,SoHo,40.77202,-73.95785,Private room,2,1,1.0,$130.51,2,98,1.56,4.86,323
+1000301,200334,f,Brooklyn,Bushwick,40.6507,-73.94462,Private room,2,1,1.0,$126.89,1,15,0.62,4.89,260
+1000302,200250,f,Brooklyn,Brooklyn Heights,40.68323,-73.95841,Private room,1,1,1.5,$153.21,3,18,0.82,4.76,185
+1000303,200193,f,Brooklyn,Bed-Stuy,40.66881,-73.94397,Private room,2,1,1.0,$28.33,1,6,0.55,4.8,56
+1000304,200106,t,Brooklyn,DUMBO,40.69253,-73.95969,Entire home/apt,2,1,1.0,$196.49,5,73,4.18,4.82,216
+1000305,200189,f,Staten Island,Todt Hill,40.56662,-74.13332,Private room,3,1,1.0,$66.02,5,71,1.57,4.68,207
+1000306,200276,t,Brooklyn,Bed-Stuy,40.67411,-73.95586,Entire home/apt,3,2,1.5,$169.91,1,3,1.08,4.71,201
+1000307,200074,t,Manhattan,Lower East Side,40.79403,-73.97852,Entire home/apt,2,1,1.0,$154.72,2,2,0.53,4.63,73
+1000308,200010,t,Brooklyn,Williamsburg,40.69361,-73.95416,Private room,2,1,1.5,$109.78,2,50,1.41,4.79,84
+1000309,200123,f,Manhattan,Greenwich Village,40.78071,-73.95703,Private room,3,1,2.0,$85.43,2,31,2.61,4.91,119
+1000310,200216,f,Manhattan,Upper East Side,40.77971,-73.95986,Private room,2,1,2.0,$107.15,1,7,1.67,4.71,13
+1000311,200290,t,Manhattan,Hell's Kitchen,40.78212,-73.94147,Entire home/apt,5,2,2.5,$201.08,2,35,2.97,4.9,327
+1000312,200040,t,Manhattan,Chelsea,40.80663,-73.99112,Private room,2,1,1.0,$116.44,1,3,4.53,4.71,128
+1000313,200193,f,Bronx,Riverdale,40.85263,-73.87705,Private room,2,1,1.0,$58.97,1,27,1.16,4.77,281
+1000314,200127,t,Queens,Long Island City,40.73107,-73.79387,Entire home/apt,5,2,1.5,$348.47,1,32,0.86,4.75,48
+1000315,200289,f,Brooklyn,Bushwick,40.66237,-73.92832,Entire home/apt,5,3,2.2,$170.63,1,29,4.39,4.92,358
+1000316,200071,t,Manhattan,Harlem,40.78615,-73.97547,Entire home/apt,2,1,1.2,$138.85,3,29,1.87,4.78,241
+1000317,200137,t,Manhattan,Harlem,40.77653,-73.9691,Entire home/apt,2,2,2.0,$286.59,30,11,1.3,4.8,321
+1000318,200144,f,Manhattan,Upper East Side,40.78922,-73.97307,Hotel room,4,1,1.0,$295.60,2,17,3.35,4.89,52
+1000319,200389,t,Manhattan,Lower East Side,40.74061,-73.97095,Private room,2,1,1.0,$140.99,2,22,0.25,4.93,264
+1000320,200354,f,Brooklyn,Bed-Stuy,40.65658,-73.94734,Private room,1,1,1.0,$55.37,1,54,1.28,4.6,68
+1000321,200380,t,Brooklyn,Bed-Stuy,40.65713,-73.96545,Shared room,1,1,1.0,$45.47,2,6,1.28,4.83,39
+1000322,200299,t,Brooklyn,Greenpoint,40.69673,-73.949,Entire home/apt,3,1,1.8,$185.06,1,25,2.96,4.61,183
+1000323,200370,t,Manhattan,SoHo,40.77715,-73.96396,Private room,2,1,1.0,$53.11,2,12,3.08,4.67,132
+1000324,200345,t,Bronx,Mott Haven,40.83924,-73.83324,Entire home/apt,3,1,1.2,$180.24,30,59,4.09,4.98,55
+1000325,200269,t,Brooklyn,Greenpoint,40.6741,-73.93872,Private room,2,1,1.0,$91.45,1,154,0.77,4.79,254
+1000326,200384,f,Brooklyn,Greenpoint,40.69276,-73.92017,Entire home/apt,4,2,1.5,$133.85,3,38,2.19,4.8,4
+1000327,200139,f,Brooklyn,Bushwick,40.66707,-73.95047,Private room,3,1,1.5,$117.37,1,8,0.34,4.68,68
+1000328,200052,t,Manhattan,SoHo,40.80222,-73.95905,Entire home/apt,2,1,1.0,$228.19,2,39,1.57,4.89,51
+1000329,200017,f,Manhattan,Lower East Side,40.79923,-73.99173,Entire home/apt,8,4,3.0,$280.15,1,253,0.8,4.89,328
+1000330,200165,f,Manhattan,Harlem,40.80632,-73.98262,Private room,1,1,1.0,$200.55,2,77,1.17,4.45,97
+1000331,200013,f,Brooklyn,Crown Heights,40.68108,-73.94642,Entire home/apt,3,2,1.5,$128.78,1,80,3.76,4.66,160
+1000332,200190,f,Manhattan,Lower East Side,40.76992,-73.99239,Private room,1,1,2.0,$172.86,2,25,0.76,4.89,270
+1000333,200340,f,Manhattan,Midtown,40.75694,-73.96941,Entire home/apt,4,2,1.5,$205.99,2,25,0.49,4.8,64
+1000334,200353,t,Manhattan,Chelsea,40.76022,-73.98821,Private room,2,1,2.0,$127.96,2,19,2.41,4.79,326
+1000335,200362,f,Manhattan,Upper East Side,40.77983,-74.01078,Entire home/apt,3,1,1.0,$233.44,3,19,0.14,4.77,242
+1000336,200352,f,Queens,Astoria,40.73988,-73.83105,Entire home/apt,2,1,1.2,$133.45,30,0,,5.0,261
+1000337,200264,f,Brooklyn,Brooklyn Heights,40.67704,-73.94397,Entire home/apt,2,1,1.0,$220.73,2,33,0.17,4.73,211
+1000338,200312,f,Brooklyn,Williamsburg,40.68627,-73.94483,Entire home/apt,3,1,1.0,$96.37,1,5,0.39,4.83,153
+1000339,200221,f,Manhattan,Midtown,40.81337,-73.96796,Entire home/apt,4,2,2.5,$287.22,1,15,0.17,4.91,233
+1000340,200104,f,Brooklyn,Bushwick,40.694,-73.95505,Entire home/apt,4,2,1.5,$362.19,7,4,2.05,4.64,139
+1000341,200339,f,Brooklyn,DUMBO,40.68001,-73.92099,Entire home/apt,4,2,2.0,$153.45,2,19,1.54,4.35,332
+1000342,200198,f,Manhattan,Greenwich Village,40.77953,-73.96832,Entire home/apt,2,1,1.0,$245.78,2,105,0.33,4.85,114
+1000343,200300,f,Manhattan,SoHo,40.79781,-73.98233,Private room,1,1,1.5,$143.93,1,10,0.25,4.78,332
+1000344,200359,t,Manhattan,SoHo,40.75068,-73.96737,Private room,2,1,1.0,$136.67,2,20,0.92,4.81,129
+1000345,200368,t,Brooklyn,Park Slope,40.69303,-73.96447,Entire home/apt,4,3,2.2,$190.44,1,4,1.31,4.82,177
+1000346,200169,t,Brooklyn,Williamsburg,40.68825,-73.93405,Private room,2,1,1.0,$93.58,30,25,4.89,4.78,94
+1000347,200149,f,Manhattan,Hell's Kitchen,40.749,-73.98524,Private room,3,1,1.0,$54.37,7,6,0.14,4.69,316
+1000348,200249,t,Manhattan,Chelsea,40.77716,-73.97389,Entire home/apt,4,2,1.5,$198.58,1,0,,5.0,100
+1000349,200256,f,Brooklyn,Crown Heights,40.66705,-73.95616,Private room,2,1,1.0,$107.06,2,10,2.84,4.63,195
+1000350,200042,t,Brooklyn,Bushwick,40.70327,-73.94581,Entire home/apt,3,1,1.8,$155.64,1,80,2.67,4.71,289
+1000351,200202,f,Queens,Ridgewood,40.71777,-73.79552,Entire home/apt,4,2,1.5,$162.73,2,18,2.11,4.84,207
+1000352,200244,t,Brooklyn,Park Slope,40.68626,-73.94343,Entire home/apt,4,2,2.0,$167.97,7,19,2.08,4.89,94
+1000353,200157,t,Manhattan,Lower East Side,40.78001,-73.98095,Private room,2,1,1.0,$68.59,2,88,1.67,4.69,102
+1000354,200286,f,Manhattan,Lower East Side,40.77317,-73.98017,Private room,1,1,1.0,$137.55,2,48,1.74,4.9,7
+1000355,200282,f,Brooklyn,Brooklyn Heights,40.68328,-73.95911,Entire home/apt,4,2,1.5,$261.34,1,7,1.44,4.96,135
+1000356,200381,f,Manhattan,Upper East Side,40.789,-73.95001,Entire home/apt,4,3,2.2,$169.84,5,43,1.65,4.97,97
+1000357,200238,f,Brooklyn,Brooklyn Heights,40.68309,-73.94974,Shared room,1,1,1.0,$42.08,2,10,1.38,4.85,260
+1000358,200019,t,Bronx,Riverdale,40.82533,-73.84113,Entire home/apt,3,1,1.2,$75.68,2,0,,5.0,146
+1000359,200053,t,Brooklyn,Greenpoint,40.66065,-73.93147,Entire home/apt,4,2,1.5,$397.73,1,28,1.68,4.75,184
+1000360,200085,f,Manhattan,Hell's Kitchen,40.79268,-73.97475,Private room,2,1,1.0,$90.25,2,15,0.54,4.75,231
+1000361,200273,f,Brooklyn,DUMBO,40.67426,-73.97174,Private room,2,1,1.0,$121.76,30,45,0.44,4.8,100
+1000362,200360,f,Brooklyn,Bed-Stuy,40.68315,-73.9349,Private room,2,1,1.0,$74.17,2,80,1.59,4.67,146
+1000363,200213,f,Brooklyn,DUMBO,40.66186,-73.94654,Private room,2,1,1.0,$89.21,2,41,1.0,4.85,204
+1000364,200361,f,Bronx,Riverdale,40.84537,-73.85603,Private room,1,1,1.0,$36.77,2,42,0.07,4.74,45
+1000365,200104,t,Manhattan,Midtown,40.78316,-73.99559,Entire home/apt,5,2,1.5,$245.15,3,61,1.85,4.71,103
+1000366,200192,f,Bronx,Mott Haven,40.83685,-73.86143,Entire home/apt,4,2,1.5,$100.24,2,31,0.68,4.91,335
+1000367,200177,f,Queens,Ridgewood,40.74082,-73.80416,Entire home/apt,4,2,2.0,$133.64,1,17,1.59,4.75,221
+1000368,200147,f,Manhattan,Chelsea,40.81591,-73.99962,Shared room,1,1,1.0,$37.04,2,40,1.37,4.65,117
+1000369,200380,t,Manhattan,Hell's Kitchen,40.77464,-73.97245,Private room,2,1,1.0,$140.82,3,3,1.01,4.98,4
+1000370,200081,t,Manhattan,Greenwich Village,40.78009,-73.98968,Entire home/apt,3,1,1.2,$112.53,3,4,0.6,4.78,210
+1000371,200193,t,Manhattan,Chelsea,40.78982,-73.96563,Private room,3,1,1.0,$200.65,7,55,1.62,4.92,54
+1000372,200037,t,Manhattan,Midtown,40.78382,-73.96622,Entire home/apt,3,1,1.0,$160.41,2,65,1.49,4.52,18
+1000373,200377,f,Brooklyn,Williamsburg,40.67184,-73.96846,Entire home/apt,6,3,2.2,$174.84,1,33,0.79,4.89,87
+1000374,200326,t,Manhattan,Hell's Kitchen,40.77235,-73.96884,Private room,2,1,1.0,$181.17,30,92,1.78,4.79,246
+1000375,200154,t,Manhattan,Harlem,40.78554,-73.97058,Entire home/apt,3,2,1.5,$228.43,2,30,1.03,4.78,116
+1000376,200130,t,Queens,Sunnyside,40.73643,-73.80362,Private room,2,1,1.0,$73.21,2,10,1.31,4.6,169
+1000377,200059,f,Manhattan,Chelsea,40.7835,-73.96262,Entire home/apt,4,2,2.0,$382.47,3,38,0.68,4.56,149
+1000378,200224,f,Queens,Astoria,40.72693,-73.81355,Private room,1,1,1.0,$36.01,2,0,,5.0,294
+1000379,200249,t,Manhattan,Greenwich Village,40.76868,-73.95874,Private room,2,1,1.0,$97.32,1,56,3.17,4.89,207
+1000380,200240,t,Manhattan,SoHo,40.80399,-73.95357,Entire home/apt,6,3,2.8,$198.31,3,9,1.29,4.6,282
+1000381,200374,t,Brooklyn,Park Slope,40.68168,-73.96225,Shared room,1,1,1.0,$96.24,5,17,1.74,4.63,331
+1000382,200389,f,Brooklyn,Bed-Stuy,40.6781,-73.92077,Entire home/apt,3,1,1.2,$190.66,2,2,0.2,4.86,173
+1000383,200293,t,Queens,Sunnyside,40.73748,-73.79801,Entire home/apt,2,1,1.2,$111.91,2,63,1.14,4.56,126
+1000384,200287,f,Brooklyn,Bed-Stuy,40.68763,-73.96324,Entire home/apt,4,3,2.2,$259.51,1,12,2.05,4.9,155
+1000385,200204,f,Queens,Astoria,40.71776,-73.81116,Private room,1,1,1.0,$49.18,1,36,2.09,4.4,179
+1000386,200099,t,Manhattan,Midtown,40.79014,-73.96049,Entire home/apt,3,1,1.8,$250.64,2,41,1.19,4.79,86
+1000387,200350,f,Manhattan,Hell's Kitchen,40.78079,-73.98429,Entire home/apt,5,3,2.2,$322.84,2,50,0.45,4.56,323
+1000388,200176,t,Brooklyn,Bushwick,40.6779,-73.9515,Entire home/apt,5,2,1.5,$226.22,30,20,2.42,4.78,266
+1000389,200262,f,Queens,Sunnyside,40.71626,-73.78982,Entire home/apt,5,2,1.5,$111.77,3,11,2.58,4.72,81
+1000390,200271,t,Staten Island,St. George,40.56813,-74.1737,Private room,2,1,1.0,$152.01,3,39,1.95,4.87,63
+1000391,200143,f,Manhattan,Lower East Side,40.76294,-73.99525,Entire home/apt,4,2,1.5,$287.71,2,53,1.37,3.97,118
+1000392,200189,f,Manhattan,Harlem,40.78681,-73.96894,Entire home/apt,2,1,1.0,$164.39,1,11,0.42,4.82,340
+1000393,200272,f,Brooklyn,Bushwick,40.67971,-73.93538,Entire home/apt,4,3,2.8,$271.16,30,19,3.49,4.43,312
+1000394,200020,t,Manhattan,Greenwich Village,40.80098,-73.98008,Entire home/apt,3,1,1.0,$211.48,2,32,1.75,4.87,162
+1000395,200333,t,Bronx,Mott Haven,40.8509,-73.88849,Private room,1,1,1.0,$89.48,1,90,0.62,4.58,292
+1000396,200300,f,Queens,Sunnyside,40.74888,-73.81357,Entire home/apt,4,3,2.2,$195.69,2,4,0.28,4.63,177
+1000397,200046,f,Manhattan,Upper East Side,40.77245,-73.98017,Hotel room,2,1,1.0,$265.20,7,41,0.22,4.85,29
+1000398,200095,f,Brooklyn,Greenpoint,40.65531,-73.94371,Entire home/apt,2,1,1.0,$155.76,7,43,1.59,4.84,160
+1000399,200064,t,Brooklyn,DUMBO,40.68141,-73.94704,Entire home/apt,5,3,2.8,$432.50,1,29,2.63,4.77,2
+1000400,200131,t,Manhattan,Midtown,40.76,-73.94145,Private room,2,1,1.5,$138.73,7,18,2.52,4.82,23
+1000401,200009,f,Queens,Ridgewood,40.73644,-73.75539,Entire home/apt,6,3,2.8,$124.36,1,15,0.65,4.92,58
+1000402,200203,t,Brooklyn,Bushwick,40.66612,-73.92983,Private room,2,1,1.0,$94.10,1,145,3.28,4.61,236
+1000403,200298,t,Queens,Long Island City,40.73989,-73.79926,Hotel room,4,1,1.0,$163.81,5,27,3.53,4.49,239
+1000404,200174,t,Manhattan,SoHo,40.80427,-73.97728,Entire home/apt,4,3,2.8,$289.18,7,38,2.45,4.29,310
+1000405,200073,f,Queens,Astoria,40.72279,-73.84697,Entire home/apt,4,2,1.5,$100.47,2,52,0.26,4.66,320
+1000406,200084,f,Manhattan,Lower East Side,40.78924,-73.99108,Private room,2,1,1.0,$127.38,2,60,0.92,4.66,159
+1000407,200059,f,Manhattan,Greenwich Village,40.77484,-73.98659,Entire home/apt,4,2,1.5,$181.60,5,36,1.22,4.76,59
+1000408,200021,t,Queens,Ridgewood,40.72271,-73.78824,Entire home/apt,4,3,2.2,$178.16,3,2,2.31,4.91,239
+1000409,200157,f,Manhattan,SoHo,40.78327,-73.96056,Entire home/apt,8,4,3.0,$227.38,7,15,2.49,4.62,321
+1000410,200319,f,Manhattan,Greenwich Village,40.80208,-73.97673,Entire home/apt,4,3,2.2,$184.03,2,37,1.75,4.84,58
+1000411,200329,t,Bronx,Mott Haven,40.83762,-73.85043,Private room,2,1,1.0,$71.35,30,25,1.36,4.81,52
+1000412,200061,f,Bronx,Mott Haven,40.86036,-73.85369,Entire home/apt,3,1,1.0,$74.58,30,46,1.16,4.97,63
+1000413,200064,f,Brooklyn,Williamsburg,40.66392,-73.93786,Entire home/apt,6,3,2.2,$308.86,1,48,1.53,4.79,120
+1000414,200325,t,Brooklyn,Brooklyn Heights,40.67984,-73.92841,Private room,2,1,2.0,$50.14,5,37,0.63,4.69,118
+1000415,200168,f,Manhattan,Harlem,40.77451,-73.9962,Entire home/apt,3,2,1.5,$215.42,2,25,2.53,4.76,285
+1000416,200203,t,Manhattan,Chelsea,40.79345,-74.00958,Entire home/apt,4,2,2.0,$308.64,2,52,0.51,4.81,17
+1000417,200129,f,Manhattan,Upper East Side,40.77213,-73.98655,Private room,2,1,2.0,$91.17,2,5,0.74,4.96,4
+1000418,200245,t,Brooklyn,Bushwick,40.66275,-73.95544,Entire home/apt,4,2,2.5,$201.61,1,67,0.2,4.86,324
+1000419,200106,t,Brooklyn,Bed-Stuy,40.69646,-73.93189,Private room,2,1,1.0,$174.70,2,16,0.74,4.6,159
+1000420,200321,t,Brooklyn,DUMBO,40.67442,-73.9272,Private room,1,1,1.0,$142.23,7,59,1.51,4.75,141
+1000421,200122,f,Brooklyn,Crown Heights,40.66227,-73.96217,Entire home/apt,4,2,1.5,$122.17,1,13,3.53,4.71,17
+1000422,200318,f,Manhattan,Greenwich Village,40.79605,-73.96251,Private room,2,1,1.0,$95.67,2,15,0.73,4.75,67
+1000423,200182,f,Brooklyn,Brooklyn Heights,40.6713,-73.96123,Entire home/apt,3,1,1.0,$173.02,30,1,1.11,4.76,113
+1000424,200103,f,Manhattan,Harlem,40.805,-73.997,Entire home/apt,4,2,1.5,$347.79,2,62,1.82,4.82,21
+1000425,200316,f,Brooklyn,DUMBO,40.66922,-73.94077,Private room,2,1,1.0,$130.12,2,56,1.03,4.87,19
+1000426,200302,t,Manhattan,Midtown,40.81013,-73.96545,Private room,2,1,1.0,$193.98,2,15,2.67,4.64,262
+1000427,200261,f,Queens,Long Island City,40.7354,-73.80344,Entire home/apt,3,1,1.2,$186.55,2,64,0.19,4.92,97
+1000428,200113,t,Manhattan,SoHo,40.79163,-73.96962,Private room,2,1,1.0,$108.54,2,69,1.98,4.86,104
+1000429,200070,t,Manhattan,Midtown,40.75927,-73.95931,Private room,2,1,1.0,$166.21,5,26,1.45,4.76,285
+1000430,200160,f,Manhattan,Lower East Side,40.79766,-73.95915,Shared room,1,1,1.0,$164.50,2,14,0.66,4.37,4
+1000431,200240,t,Brooklyn,Park Slope,40.6787,-73.95854,Entire home/apt,4,3,2.2,$255.20,5,29,2.32,4.73,128
+1000432,200011,t,Brooklyn,Crown Heights,40.64356,-73.94184,Entire home/apt,4,2,2.0,$466.41,2,53,2.39,4.72,158
+1000433,200138,f,Manhattan,Lower East Side,40.79933,-73.95627,Entire home/apt,4,2,1.5,$322.38,2,1,0.56,4.83,250
+1000434,200167,f,Manhattan,Greenwich Village,40.79534,-73.97231,Shared room,1,1,1.0,$57.90,3,65,1.74,4.61,275
+1000435,200247,f,Brooklyn,DUMBO,40.69451,-73.93034,Entire home/apt,4,3,2.8,$249.59,3,96,1.39,4.89,82
+1000436,200354,f,Manhattan,Lower East Side,40.77676,-73.96105,Private room,2,1,1.0,$224.03,2,6,0.21,4.87,319
+1000437,200031,f,Queens,Sunnyside,40.72016,-73.7868,Entire home/apt,8,5,4.2,$116.82,1,25,1.66,4.35,117
+1000438,200012,f,Brooklyn,Greenpoint,40.65871,-73.96253,Entire home/apt,2,1,1.2,$177.18,1,60,3.8,4.86,28
+1000439,200243,t,Manhattan,Chelsea,40.79897,-73.95714,Entire home/apt,4,3,2.2,$248.29,1,27,1.64,4.72,357
+1000440,200108,t,Manhattan,Lower East Side,40.7926,-73.96988,Hotel room,2,1,1.0,$202.61,1,49,1.11,4.53,137
+1000441,200336,f,Staten Island,Todt Hill,40.54363,-74.15132,Entire home/apt,6,3,3.2,$92.96,3,18,2.64,4.9,156
+1000442,200323,t,Manhattan,Harlem,40.78991,-73.97922,Private room,2,1,2.0,$135.19,1,5,2.06,4.81,30
+1000443,200194,f,Manhattan,SoHo,40.77241,-73.94953,Entire home/apt,2,2,2.5,$257.34,3,26,0.56,4.75,330
+1000444,200308,f,Queens,Sunnyside,40.7273,-73.78808,Entire home/apt,4,2,1.5,$195.70,1,7,1.57,4.82,285
+1000445,200133,t,Bronx,Riverdale,40.85641,-73.87982,Entire home/apt,2,2,1.5,$120.72,2,13,0.98,4.87,152
+1000446,200395,t,Staten Island,Todt Hill,40.5824,-74.13041,Entire home/apt,3,1,1.0,$149.81,2,21,0.5,4.87,335
+1000447,200281,t,Brooklyn,Bushwick,40.70549,-73.9436,Entire home/apt,4,2,2.0,$224.19,1,18,2.96,4.97,57
+1000448,200291,t,Manhattan,Lower East Side,40.77953,-73.96716,Entire home/apt,4,2,2.0,$231.33,7,20,1.75,4.93,312
+1000449,200163,t,Manhattan,Hell's Kitchen,40.78675,-73.9504,Entire home/apt,3,1,1.0,$135.55,1,1,1.93,4.8,86
+1000450,200278,f,Brooklyn,DUMBO,40.66325,-73.9484,Entire home/apt,3,1,1.2,$158.55,2,64,1.04,4.6,122
+1000451,200203,f,Brooklyn,Bed-Stuy,40.66144,-73.95938,Shared room,1,1,1.0,$59.22,5,25,1.14,4.76,190
+1000452,200096,f,Manhattan,Midtown,40.78875,-73.95905,Private room,2,1,1.0,$149.52,2,7,2.97,4.91,352
+1000453,200223,t,Queens,Ridgewood,40.71846,-73.78332,Entire home/apt,4,2,1.5,$135.64,1,8,1.22,4.59,292
+1000454,200237,f,Manhattan,Hell's Kitchen,40.79977,-73.94218,Private room,2,1,1.0,$171.88,2,16,1.16,4.5,313
+1000455,200117,f,Brooklyn,Greenpoint,40.67925,-73.9538,Private room,2,1,1.0,$152.54,3,34,2.52,4.47,27
+1000456,200192,f,Manhattan,SoHo,40.76806,-73.98773,Entire home/apt,4,2,1.5,$263.96,30,67,1.44,4.88,154
+1000457,200276,f,Brooklyn,Park Slope,40.69695,-73.96693,Private room,2,1,1.0,$184.61,7,10,2.06,4.31,229
+1000458,200106,f,Manhattan,Harlem,40.80137,-73.98423,Private room,2,1,1.0,$180.49,2,0,,5.0,36
+1000459,200004,f,Manhattan,Lower East Side,40.77282,-73.97347,Entire home/apt,4,2,2.0,$213.71,30,52,1.32,4.55,5
+1000460,200018,f,Manhattan,Upper East Side,40.77255,-73.95722,Entire home/apt,6,3,2.2,$123.45,1,73,0.86,4.73,317
+1000461,200307,t,Brooklyn,Williamsburg,40.7054,-73.95406,Shared room,1,1,1.0,$49.17,1,66,0.2,4.74,224
+1000462,200020,f,Brooklyn,Park Slope,40.67172,-73.94665,Private room,2,1,1.0,$58.28,5,16,0.86,4.81,32
+1000463,200122,t,Brooklyn,Park Slope,40.68632,-73.9465,Entire home/apt,4,2,2.5,$226.53,1,25,0.5,4.77,88
+1000464,200137,f,Bronx,Riverdale,40.86561,-73.8476,Entire home/apt,3,1,1.0,$106.18,1,7,1.73,4.6,333
+1000465,200080,f,Manhattan,Greenwich Village,40.76532,-73.96339,Entire home/apt,8,4,3.0,$210.40,1,0,,5.0,39
+1000466,200154,t,Manhattan,Upper East Side,40.80591,-73.97862,Private room,2,1,1.0,$137.67,2,17,0.47,4.92,168
+1000467,200358,t,Queens,Long Island City,40.72379,-73.80282,Private room,1,1,1.0,$59.27,3,29,0.4,4.64,297
+1000468,200025,t,Manhattan,Upper East Side,40.77549,-73.99623,Hotel room,2,1,1.0,$189.87,2,78,1.42,4.82,17
+1000469,200169,t,Bronx,Mott Haven,40.82488,-73.86364,Entire home/apt,6,4,3.0,$110.47,1,0,,5.0,14
+1000470,200059,t,Manhattan,Upper East Side,40.8058,-73.9804,Private room,2,1,1.5,$79.54,2,1,0.46,4.9,131
+1000471,200301,t,Bronx,Pelham Bay,40.83516,-73.83928,Private room,2,1,1.5,$34.80,30,41,0.44,4.67,289
+1000472,200041,t,Manhattan,Hell's Kitchen,40.76648,-73.99612,Entire home/apt,4,2,1.5,$246.62,5,32,0.52,4.42,317
+1000473,200038,t,Queens,Astoria,40.71577,-73.80484,Entire home/apt,3,1,1.2,$178.37,2,39,1.01,4.64,293
+1000474,200117,f,Brooklyn,Bushwick,40.65199,-73.94612,Shared room,1,1,1.0,$48.98,30,43,1.55,4.89,208
+1000475,200275,t,Staten Island,St. George,40.59373,-74.16949,Private room,2,1,1.0,$36.17,3,12,1.07,4.84,326
+1000476,200270,t,Manhattan,Hell's Kitchen,40.78441,-73.96526,Entire home/apt,4,2,1.5,$365.76,1,13,0.75,4.55,278
+1000477,200127,f,Brooklyn,Williamsburg,40.67695,-73.94141,Private room,2,1,1.5,$87.84,1,51,1.15,4.84,275
+1000478,200399,f,Bronx,Riverdale,40.84776,-73.87699,Entire home/apt,4,2,1.5,$186.67,1,25,1.76,4.82,308
+1000479,200003,f,Brooklyn,Bushwick,40.70068,-73.92548,Private room,2,1,1.0,$111.94,3,0,,5.0,276
+1000480,200293,t,Brooklyn,Williamsburg,40.69605,-73.92899,Private room,2,1,1.0,$77.21,1,2,2.39,4.65,75
+1000481,200373,f,Brooklyn,Williamsburg,40.65458,-73.93031,Entire home/apt,3,1,1.0,$289.41,2,18,2.66,4.83,297
+1000482,200016,f,Brooklyn,Brooklyn Heights,40.68803,-73.96725,Hotel room,4,1,1.0,$150.96,1,0,,5.0,312
+1000483,200398,f,Brooklyn,Park Slope,40.67498,-73.94005,Private room,2,1,1.0,$139.81,30,2,2.37,4.8,346
+1000484,200265,f,Brooklyn,Crown Heights,40.70316,-73.93333,Entire home/apt,4,2,1.5,$213.49,2,5,1.8,4.97,111
+1000485,200239,f,Queens,Ridgewood,40.71523,-73.76947,Private room,2,1,1.0,$101.60,30,6,3.54,4.9,265
+1000486,200263,f,Manhattan,Hell's Kitchen,40.78376,-73.97504,Entire home/apt,4,3,2.2,$255.28,30,164,0.74,4.55,71
+1000487,200398,f,Manhattan,SoHo,40.77819,-73.99555,Entire home/apt,5,2,1.5,$207.18,1,11,4.41,4.53,316
+1000488,200134,f,Bronx,Mott Haven,40.84315,-73.85734,Entire home/apt,2,1,1.2,$92.16,2,6,0.23,4.88,20
+1000489,200213,f,Queens,Long Island City,40.72242,-73.78859,Entire home/apt,3,1,1.2,$86.14,1,18,0.8,4.93,187
+1000490,200015,f,Brooklyn,Greenpoint,40.66523,-73.94631,Private room,1,1,1.5,$94.82,30,4,0.3,4.85,120
+1000491,200328,t,Brooklyn,Bushwick,40.68295,-73.94136,Entire home/apt,4,2,1.5,$399.68,2,34,4.2,4.83,341
+1000492,200360,f,Manhattan,Upper East Side,40.75902,-73.97779,Private room,2,1,1.5,$105.05,1,25,2.63,4.62,140
+1000493,200129,t,Manhattan,Upper East Side,40.80826,-73.97859,Private room,2,1,1.0,$193.21,1,3,2.09,4.6,303
+1000494,200352,f,Brooklyn,Crown Heights,40.67844,-73.9455,Entire home/apt,2,1,1.0,$273.09,2,8,3.32,4.92,203
+1000495,200122,f,Manhattan,Harlem,40.80662,-73.95184,Private room,2,1,1.5,$83.32,30,13,0.95,4.85,208
+1000496,200241,t,Brooklyn,Park Slope,40.69031,-73.9588,Entire home/apt,5,3,2.2,$167.50,3,17,0.26,4.84,8
+1000497,200115,f,Manhattan,Midtown,40.78849,-73.96268,Entire home/apt,3,1,1.0,$310.67,7,5,1.38,4.65,184
+1000498,200197,t,Staten Island,St. George,40.56902,-74.16326,Entire home/apt,3,1,1.0,$294.55,2,15,0.32,4.72,295
+1000499,200222,f,Staten Island,St. George,40.60508,-74.15471,Entire home/apt,4,3,2.2,$130.04,1,1,1.47,4.95,331
+1000500,200214,t,Brooklyn,Williamsburg,40.70242,-73.92924,Entire home/apt,4,3,3.2,$145.69,30,139,4.37,4.89,200
+1000501,200080,t,Brooklyn,Crown Heights,40.68432,-73.93741,Private room,1,1,2.0,$87.05,1,18,1.33,4.81,63
+1000502,200263,t,Manhattan,SoHo,40.76209,-73.9681,Entire home/apt,2,2,1.5,$275.17,30,96,4.1,4.6,349
+1000503,200135,f,Queens,Astoria,40.74946,-73.78468,Entire home/apt,4,3,2.2,$122.28,2,13,0.43,4.87,325
+1000504,200306,f,Brooklyn,Bed-Stuy,40.68052,-73.91852,Shared room,1,1,1.0,$39.46,1,67,2.03,4.82,319
+1000505,200242,t,Manhattan,SoHo,40.78032,-73.98049,Private room,2,1,1.0,$107.66,3,1,1.47,4.82,24
+1000506,200386,f,Queens,Astoria,40.73051,-73.7834,Private room,2,1,2.0,$70.31,30,20,1.2,4.73,155
+1000507,200303,t,Queens,Flushing,40.70243,-73.79063,Entire home/apt,4,2,2.5,$130.43,30,38,1.04,4.71,220
+1000508,200270,t,Bronx,Riverdale,40.85696,-73.86884,Private room,3,1,1.5,$38.97,1,18,1.89,4.5,291
+1000509,200287,t,Brooklyn,Bed-Stuy,40.6948,-73.93458,Private room,2,1,1.5,$99.71,1,9,2.71,4.43,138
+1000510,200050,f,Brooklyn,Greenpoint,40.71032,-73.95546,Private room,2,1,1.0,$79.40,2,50,1.33,4.97,20
+1000511,200189,f,Manhattan,Harlem,40.79556,-73.98646,Private room,2,1,1.5,$99.34,2,10,3.15,4.7,153
+1000512,200297,t,Bronx,Riverdale,40.82057,-73.89533,Entire home/apt,5,3,2.8,$115.79,3,5,0.22,4.81,67
+1000513,200014,t,Queens,Flushing,40.73627,-73.79214,Entire home/apt,3,1,1.0,$255.65,1,95,2.51,4.74,40
+1000514,200389,t,Manhattan,Harlem,40.77591,-73.9978,Entire home/apt,3,1,1.8,$231.17,30,7,3.32,4.84,14
+1000515,200232,f,Manhattan,Upper East Side,40.77274,-73.97114,Entire home/apt,2,2,2.0,$212.62,2,6,0.54,4.9,278
+1000516,200261,f,Manhattan,Upper East Side,40.795,-73.97145,Private room,2,1,1.0,$62.34,5,2,4.93,4.92,168
+1000517,200192,t,Queens,Ridgewood,40.73198,-73.80054,Entire home/apt,4,2,2.0,$215.49,2,12,2.83,4.82,133
+1000518,200203,f,Staten Island,St. George,40.60574,-74.16547,Shared room,1,1,1.0,$60.44,2,66,1.16,4.54,198
+1000519,200261,t,Manhattan,Lower East Side,40.77261,-73.97859,Shared room,1,1,1.0,$49.55,30,22,1.0,4.75,237
+1000520,200113,f,Brooklyn,Brooklyn Heights,40.68634,-73.95978,Entire home/apt,5,2,2.0,$263.60,2,21,0.96,4.52,111
+1000521,200374,f,Manhattan,SoHo,40.78514,-73.96873,Entire home/apt,4,3,2.2,$178.39,7,15,1.16,4.95,51
+1000522,200352,f,Bronx,Pelham Bay,40.83438,-73.85985,Private room,2,1,1.0,$68.51,30,15,1.96,4.39,136
+1000523,200036,f,Queens,Astoria,40.71308,-73.81166,Shared room,1,1,1.0,$44.89,3,15,0.79,4.76,254
+1000524,200079,f,Queens,Astoria,40.72969,-73.8198,Entire home/apt,3,1,1.2,$232.53,2,52,1.3,4.85,114
+1000525,200275,t,Brooklyn,Bed-Stuy,40.64603,-73.93621,Entire home/apt,3,1,1.0,$183.50,1,33,0.39,4.51,157
+1000526,200278,t,Manhattan,Lower East Side,40.79883,-73.9782,Private room,1,1,1.0,$131.16,1,20,2.22,4.67,299
+1000527,200162,f,Manhattan,Midtown,40.77308,-73.95612,Private room,2,1,1.0,$113.48,1,70,1.52,4.85,263
+1000528,200312,t,Manhattan,Chelsea,40.76592,-73.99165,Entire home/apt,2,2,1.5,$224.37,1,62,0.37,4.71,354
+1000529,200017,t,Queens,Long Island City,40.73881,-73.79476,Private room,2,1,1.0,$136.02,1,10,2.27,4.8,306
+1000530,200204,f,Queens,Ridgewood,40.74417,-73.827,Entire home/apt,6,3,2.8,$145.50,2,29,0.34,4.65,98
+1000531,200017,f,Staten Island,St. George,40.55849,-74.14999,Entire home/apt,3,1,1.0,$110.43,2,38,2.1,4.92,120
+1000532,200202,f,Staten Island,Todt Hill,40.58577,-74.1375,Entire home/apt,4,2,2.5,$309.56,2,31,1.5,4.91,89
+1000533,200210,f,Brooklyn,Bed-Stuy,40.68082,-73.94173,Entire home/apt,2,2,1.5,$143.94,1,75,1.78,4.79,29
+1000534,200078,f,Brooklyn,Williamsburg,40.67236,-73.92034,Entire home/apt,3,1,1.0,$100.06,1,109,1.01,4.85,229
+1000535,200056,t,Bronx,Mott Haven,40.82825,-73.85941,Entire home/apt,3,2,2.0,$116.04,3,2,0.23,4.4,138
+1000536,200080,f,Queens,Astoria,40.71338,-73.78688,Entire home/apt,4,2,1.5,$127.87,2,10,1.01,4.92,253
+1000537,200306,f,Manhattan,Hell's Kitchen,40.76754,-73.96004,Entire home/apt,4,2,1.5,$331.51,2,148,0.52,4.59,30
+1000538,200058,t,Brooklyn,Williamsburg,40.67988,-73.91803,Entire home/apt,4,2,2.5,$189.06,2,23,2.09,4.88,161
+1000539,200018,t,Manhattan,Greenwich Village,40.77888,-73.96483,Shared room,1,1,1.0,$61.10,5,44,1.62,4.77,155
+1000540,200208,t,Bronx,Riverdale,40.83311,-73.86912,Entire home/apt,8,4,4.0,$262.65,2,66,0.74,4.43,322
+1000541,200135,f,Brooklyn,DUMBO,40.67979,-73.96711,Entire home/apt,2,1,1.0,$127.46,2,63,0.8,4.93,116
+1000542,200332,f,Manhattan,Greenwich Village,40.76184,-73.9622,Private room,3,1,1.0,$191.37,30,24,3.79,4.47,190
+1000543,200010,f,Brooklyn,Brooklyn Heights,40.67601,-73.95309,Hotel room,2,2,1.0,$284.67,5,27,3.05,4.74,175
+1000544,200069,f,Brooklyn,Crown Heights,40.66715,-73.95468,Entire home/apt,4,3,2.8,$132.86,2,69,1.5,4.72,4
+1000545,200341,t,Manhattan,Harlem,40.78479,-73.96452,Private room,2,1,1.0,$143.70,2,72,3.34,4.71,332
+1000546,200387,f,Manhattan,Harlem,40.75172,-73.95001,Private room,2,1,1.0,$70.64,1,52,1.06,4.74,11
+1000547,200083,f,Brooklyn,DUMBO,40.69833,-73.97916,Private room,1,1,1.0,$77.46,2,36,2.54,4.92,58
+1000548,200109,t,Brooklyn,DUMBO,40.69449,-73.92837,Entire home/apt,2,1,1.0,$281.67,30,45,0.73,4.79,320
+1000549,200044,f,Brooklyn,Greenpoint,40.67821,-73.96366,Private room,1,1,1.0,$59.18,2,9,0.82,4.83,307
+1000550,200398,t,Brooklyn,Williamsburg,40.69343,-73.94782,Entire home/apt,4,3,2.2,$267.97,30,5,0.78,4.8,298
+1000551,200132,f,Queens,Flushing,40.73643,-73.76161,Private room,2,1,1.0,$56.43,2,1,2.67,4.59,249
+1000552,200018,f,Brooklyn,Bed-Stuy,40.68198,-73.95795,Private room,2,1,1.0,$114.00,30,34,0.91,4.56,338
+1000553,200093,f,Brooklyn,DUMBO,40.67316,-73.95604,Entire home/apt,2,2,2.0,$200.00,2,10,3.44,4.69,92
+1000554,200294,f,Queens,Long Island City,40.7347,-73.80699,Private room,1,1,1.0,$85.87,1,46,1.04,4.91,318
+1000555,200148,t,Manhattan,Harlem,40.77601,-73.99047,Entire home/apt,6,3,2.2,$248.70,2,32,1.7,4.8,110
+1000556,200172,f,Manhattan,Chelsea,40.78112,-73.96855,Private room,1,1,2.0,$194.44,1,66,2.63,4.67,305
+1000557,200051,t,Manhattan,SoHo,40.74283,-73.96731,Entire home/apt,5,2,2.0,$273.88,1,65,0.32,4.88,294
+1000558,200019,f,Brooklyn,Bed-Stuy,40.67751,-73.95567,Entire home/apt,5,3,2.2,$126.06,5,23,0.96,4.48,335
+1000559,200120,f,Brooklyn,DUMBO,40.70863,-73.92982,Entire home/apt,3,1,1.0,$115.45,1,35,2.61,4.79,16
+1000560,200324,f,Brooklyn,Williamsburg,40.66175,-73.93163,Shared room,1,1,1.0,$43.59,3,13,0.87,4.87,219
+1000561,200225,t,Manhattan,Chelsea,40.80177,-73.96922,Entire home/apt,4,2,1.5,$247.66,1,232,0.52,4.49,298
+1000562,200066,f,Manhattan,SoHo,40.78852,-73.96612,Entire home/apt,4,2,2.0,$311.50,1,13,0.55,4.93,304
+1000563,200141,f,Manhattan,Upper East Side,40.75181,-73.974,Entire home/apt,3,1,1.2,$313.96,30,15,1.93,4.53,4
+1000564,200189,f,Manhattan,Hell's Kitchen,40.77952,-73.94975,Private room,1,1,2.0,$94.26,2,68,3.26,4.79,128
+1000565,200158,t,Brooklyn,Bed-Stuy,40.68321,-73.94866,Private room,2,1,1.0,$83.18,2,26,2.17,4.8,322
+1000566,200098,t,Manhattan,Lower East Side,40.78175,-73.95585,Entire home/apt,3,1,1.0,$237.23,2,9,0.81,4.93,111
+1000567,200158,t,Manhattan,Chelsea,40.78033,-73.98167,Entire home/apt,3,1,1.0,$366.53,2,7,2.9,4.94,23
+1000568,200246,f,Queens,Sunnyside,40.72406,-73.78079,Entire home/apt,2,1,1.8,$119.83,30,27,0.95,4.49,28
+1000569,200344,f,Manhattan,Lower East Side,40.79054,-73.97054,Entire home/apt,3,1,1.0,$272.59,3,1,0.76,4.89,131
+1000570,200236,f,Brooklyn,Brooklyn Heights,40.68107,-73.9526,Entire home/apt,2,2,1.5,$153.75,2,27,1.52,4.86,43
+1000571,200033,f,Brooklyn,Crown Heights,40.67529,-73.95415,Private room,2,1,1.0,$82.55,7,15,3.08,4.89,320
+1000572,200361,t,Manhattan,Lower East Side,40.77868,-73.95101,Entire home/apt,3,1,1.2,$710.46,1,23,1.36,4.58,206
+1000573,200241,f,Brooklyn,Greenpoint,40.66203,-73.95453,Entire home/apt,5,2,1.5,$229.78,2,35,1.59,4.78,215
+1000574,200330,f,Queens,Long Island City,40.70939,-73.81696,Entire home/apt,4,2,1.5,$138.51,30,21,0.59,4.92,243
+1000575,200338,f,Bronx,Pelham Bay,40.842,-73.87406,Shared room,1,1,1.0,$41.00,2,76,0.58,4.92,30
+1000576,200275,f,Manhattan,Greenwich Village,40.80953,-73.97544,Shared room,1,1,1.0,$83.46,5,6,0.24,4.83,265
+1000577,200071,f,Bronx,Mott Haven,40.86414,-73.85028,Private room,1,1,1.0,$142.65,3,88,0.58,4.96,10
+1000578,200313,f,Brooklyn,Bed-Stuy,40.67507,-73.91255,Entire home/apt,2,1,1.2,$238.30,5,4,0.6,4.76,81
+1000579,200216,f,Manhattan,Lower East Side,40.78713,-73.9485,Entire home/apt,5,2,1.5,$414.42,30,141,1.62,4.81,155
+1000580,200079,f,Brooklyn,Brooklyn Heights,40.69915,-73.93798,Entire home/apt,2,1,1.0,$293.47,1,35,2.26,4.79,165
+1000581,200169,t,Staten Island,St. George,40.59077,-74.14084,Entire home/apt,4,2,1.5,$176.94,1,4,0.88,4.59,207
+1000582,200298,t,Brooklyn,Crown Heights,40.66104,-73.94334,Entire home/apt,3,2,2.0,$300.55,2,49,0.29,4.84,23
+1000583,200180,t,Manhattan,Lower East Side,40.79921,-73.94831,Private room,2,1,1.0,$112.61,3,13,1.42,4.66,294
+1000584,200116,f,Brooklyn,Bed-Stuy,40.66739,-73.93627,Private room,1,1,1.5,$119.26,1,78,3.29,4.77,178
+1000585,200260,t,Manhattan,Chelsea,40.78536,-73.97297,Private room,1,1,1.0,$96.60,1,4,1.9,4.81,331
+1000586,200260,t,Manhattan,Lower East Side,40.78844,-73.96793,Entire home/apt,4,2,1.5,$412.16,2,6,0.67,4.74,49
+1000587,200005,t,Manhattan,Midtown,40.79122,-73.94957,Private room,1,1,1.0,$70.91,30,24,2.61,4.9,6
+1000588,200297,f,Manhattan,Chelsea,40.79486,-73.96654,Entire home/apt,4,2,1.5,$471.94,3,40,0.39,4.77,99
+1000589,200108,f,Manhattan,Greenwich Village,40.81107,-73.95455,Entire home/apt,2,1,1.8,$274.52,2,12,0.63,4.72,80
+1000590,200343,f,Manhattan,Greenwich Village,40.78171,-73.98946,Private room,2,1,1.5,$108.33,1,4,3.38,4.8,240
+1000591,200360,t,Brooklyn,Park Slope,40.66338,-73.9302,Entire home/apt,3,1,1.0,$274.56,2,40,0.88,4.94,323
+1000592,200117,t,Manhattan,Chelsea,40.77365,-73.98632,Entire home/apt,4,2,1.5,$311.04,1,86,2.56,4.8,180
+1000593,200357,f,Manhattan,SoHo,40.77173,-73.98151,Entire home/apt,5,3,2.8,$262.02,1,66,1.19,4.93,292
+1000594,200331,t,Queens,Ridgewood,40.74096,-73.79725,Private room,2,1,1.5,$66.84,30,34,1.88,4.8,82
+1000595,200331,t,Brooklyn,Greenpoint,40.65761,-73.94373,Private room,1,1,1.5,$100.11,30,55,0.71,4.62,53
+1000596,200013,t,Brooklyn,Brooklyn Heights,40.68153,-73.95139,Entire home/apt,3,1,1.0,$172.02,1,43,1.78,4.53,89
+1000597,200142,f,Manhattan,Upper East Side,40.80044,-73.97751,Private room,2,1,1.0,$103.76,1,19,1.35,4.36,202
+1000598,200188,f,Manhattan,Harlem,40.79973,-73.96225,Entire home/apt,3,1,1.2,$268.64,2,11,0.77,4.99,30
+1000599,200281,t,Manhattan,SoHo,40.797,-73.98768,Entire home/apt,4,3,2.2,$229.35,2,18,0.99,4.79,192
+1000600,200115,t,Manhattan,Chelsea,40.78457,-73.97199,Private room,1,1,1.0,$141.64,1,9,0.38,4.42,99
+1000601,200236,f,Manhattan,Hell's Kitchen,40.76177,-73.95462,Private room,1,1,1.5,$94.88,2,54,1.94,4.64,348
+1000602,200338,f,Manhattan,SoHo,40.77084,-73.98034,Hotel room,4,2,1.0,$307.15,1,11,2.91,4.62,88
+1000603,200010,f,Manhattan,Chelsea,40.7679,-73.96068,Entire home/apt,5,2,2.0,$385.20,3,13,0.85,4.84,122
+1000604,200199,f,Manhattan,Harlem,40.76021,-73.96193,Private room,2,1,1.0,$157.25,3,21,1.39,4.86,46
+1000605,200252,f,Brooklyn,Brooklyn Heights,40.69387,-73.93614,Private room,2,1,1.5,$95.74,2,38,0.88,4.76,145
+1000606,200050,f,Manhattan,SoHo,40.79379,-73.95981,Private room,2,1,2.0,$78.33,2,3,0.91,4.77,2
+1000607,200142,f,Manhattan,Lower East Side,40.76886,-73.94968,Entire home/apt,5,3,2.2,$281.93,30,30,0.23,4.78,17
+1000608,200271,f,Brooklyn,Bushwick,40.6713,-73.9452,Private room,2,1,1.0,$206.95,30,23,0.16,4.94,313
+1000609,200016,t,Brooklyn,Brooklyn Heights,40.67321,-73.93683,Private room,2,1,1.0,$82.93,1,48,2.96,4.85,326
+1000610,200002,f,Manhattan,Hell's Kitchen,40.77503,-73.9702,Entire home/apt,3,1,1.0,$210.93,1,14,0.2,4.46,80
+1000611,200158,f,Brooklyn,Crown Heights,40.65967,-73.92673,Entire home/apt,2,2,1.5,$145.47,2,0,,5.0,152
+1000612,200030,t,Brooklyn,DUMBO,40.68826,-73.94858,Entire home/apt,4,3,2.2,$188.34,1,2,2.17,4.83,307
+1000613,200082,f,Manhattan,Chelsea,40.77606,-73.96153,Private room,2,1,1.0,$71.81,2,82,1.51,4.87,298
+1000614,200031,f,Queens,Long Island City,40.71759,-73.79302,Private room,2,1,1.0,$35.45,2,18,1.06,4.82,66
+1000615,200236,f,Bronx,Riverdale,40.86222,-73.87697,Private room,2,1,1.0,$38.52,2,7,3.05,4.95,88
+1000616,200333,f,Manhattan,Midtown,40.78863,-73.96646,Private room,2,1,1.0,$141.84,2,33,0.51,4.77,134
+1000617,200148,f,Manhattan,SoHo,40.78164,-73.97876,Entire home/apt,2,1,1.2,$156.98,2,11,0.44,4.7,201
+1000618,200177,t,Queens,Sunnyside,40.74642,-73.80386,Entire home/apt,8,4,3.0,$149.84,30,6,1.2,4.68,178
+1000619,200370,f,Brooklyn,DUMBO,40.65102,-73.93459,Entire home/apt,2,1,1.0,$114.11,1,59,1.34,4.84,338
+1000620,200035,f,Manhattan,Midtown,40.76508,-73.96082,Entire home/apt,4,2,2.0,$331.34,3,33,3.3,4.89,78
+1000621,200023,t,Manhattan,Harlem,40.80312,-73.96175,Entire home/apt,6,3,3.2,$365.55,1,9,0.97,4.84,84
+1000622,200106,t,Manhattan,Greenwich Village,40.79917,-73.9409,Entire home/apt,4,2,1.5,$382.17,1,50,4.86,4.76,20
+1000623,200097,f,Brooklyn,Park Slope,40.6927,-73.93924,Entire home/apt,3,1,1.0,$473.72,2,81,3.46,4.83,164
+1000624,200230,t,Brooklyn,Park Slope,40.70271,-73.91788,Entire home/apt,3,1,1.0,$235.24,1,13,1.62,4.8,27
+1000625,200227,f,Manhattan,Chelsea,40.80963,-73.97858,Entire home/apt,2,2,1.5,$257.45,1,12,3.12,4.8,236
+1000626,200371,t,Brooklyn,DUMBO,40.65789,-73.9525,Entire home/apt,4,2,1.5,$168.32,1,42,3.21,4.62,287
+1000627,200100,t,Brooklyn,Park Slope,40.68875,-73.94181,Entire home/apt,2,1,1.0,$241.47,2,15,0.31,4.81,184
+1000628,200055,f,Manhattan,SoHo,40.78,-73.96279,Private room,1,1,1.0,$94.45,3,8,2.32,4.84,309
+1000629,200195,t,Manhattan,Lower East Side,40.76104,-73.96908,Private room,1,1,1.5,$107.39,1,1,1.48,4.97,154
+1000630,200008,f,Brooklyn,Park Slope,40.69498,-73.93596,Private room,2,1,1.0,$85.07,3,151,0.55,4.63,122
+1000631,200315,f,Queens,Astoria,40.73858,-73.77094,Entire home/apt,3,1,1.2,$150.80,1,6,1.17,4.58,86
+1000632,200128,t,Brooklyn,DUMBO,40.67721,-73.954,Private room,2,1,1.0,$63.29,2,16,3.38,4.86,201
+1000633,200032,t,Brooklyn,Bed-Stuy,40.69604,-73.92663,Private room,2,1,1.0,$87.24,2,7,2.24,4.86,39
+1000634,200093,f,Manhattan,Upper East Side,40.79147,-73.97361,Private room,1,1,1.0,$155.22,3,18,0.78,4.84,168
+1000635,200007,t,Manhattan,Hell's Kitchen,40.78312,-73.99035,Entire home/apt,3,2,1.5,$381.54,30,48,3.93,4.76,69
+1000636,200258,f,Brooklyn,Bushwick,40.69489,-73.92804,Private room,3,1,1.0,$62.69,30,103,3.97,4.83,279
+1000637,200341,f,Manhattan,Chelsea,40.76342,-73.95819,Private room,3,1,2.0,$211.00,1,4,2.09,4.53,329
+1000638,200390,t,Manhattan,Chelsea,40.78916,-73.98653,Private room,3,1,1.0,$164.98,7,6,2.23,4.86,353
+1000639,200220,f,Manhattan,Harlem,40.76501,-73.9656,Private room,2,1,1.0,$98.85,1,16,3.58,4.67,327
+1000640,200240,t,Manhattan,Lower East Side,40.77713,-73.9439,Entire home/apt,3,1,1.2,$202.86,30,10,2.08,4.86,26
+1000641,200106,t,Manhattan,Harlem,40.79739,-73.96409,Private room,2,1,1.0,$89.19,1,11,0.8,4.57,344
+1000642,200036,t,Manhattan,Midtown,40.79095,-73.95124,Entire home/apt,6,3,2.2,$413.56,2,6,0.61,4.94,130
+1000643,200045,f,Manhattan,Chelsea,40.7958,-73.9637,Private room,3,1,2.0,$193.22,1,23,0.24,4.78,276
+1000644,200298,f,Manhattan,Hell's Kitchen,40.7684,-73.92527,Entire home/apt,2,1,1.0,$362.18,1,22,2.31,4.81,294
+1000645,200309,f,Queens,Ridgewood,40.71165,-73.79959,Entire home/apt,2,2,1.5,$200.81,3,2,1.43,4.44,287
+1000646,200366,t,Brooklyn,DUMBO,40.65338,-73.93612,Entire home/apt,2,2,2.5,$265.88,30,130,0.65,4.72,253
+1000647,200009,t,Brooklyn,Park Slope,40.68047,-73.93272,Private room,2,1,1.0,$96.02,2,34,0.07,4.26,84
+1000648,200087,f,Brooklyn,Brooklyn Heights,40.65211,-73.92751,Entire home/apt,3,1,1.8,$160.35,3,36,0.29,4.85,8
+1000649,200370,f,Brooklyn,Bed-Stuy,40.66609,-73.94644,Private room,1,1,1.5,$52.48,3,89,2.39,4.74,49
+1000650,200331,f,Manhattan,Lower East Side,40.79707,-73.96728,Private room,1,1,1.0,$113.41,1,27,0.59,4.55,0
+1000651,200177,t,Brooklyn,Greenpoint,40.68318,-73.93221,Entire home/apt,4,2,1.5,$243.71,1,80,0.56,4.91,3
+1000652,200130,t,Brooklyn,Greenpoint,40.68463,-73.94932,Entire home/apt,5,2,1.5,$201.24,1,137,0.79,4.87,3
+1000653,200195,f,Brooklyn,Bed-Stuy,40.6757,-73.94102,Entire home/apt,2,1,1.0,$273.85,2,2,1.63,4.65,89
+1000654,200011,f,Manhattan,Harlem,40.76967,-73.95626,Private room,2,1,1.0,$121.28,1,42,1.41,4.62,161
+1000655,200306,f,Manhattan,Chelsea,40.78743,-73.97008,Private room,2,1,2.0,$107.39,1,52,1.59,4.92,154
+1000656,200122,f,Manhattan,Midtown,40.80099,-73.973,Entire home/apt,5,2,1.5,$264.73,1,1,0.53,4.82,14
+1000657,200399,f,Manhattan,Upper East Side,40.78036,-73.97847,Entire home/apt,2,2,1.5,$231.50,1,56,1.73,4.83,364
+1000658,200235,f,Brooklyn,Williamsburg,40.68335,-73.93957,Private room,2,1,1.5,$105.70,30,21,2.82,4.84,31
+1000659,200331,f,Brooklyn,Park Slope,40.66821,-73.94687,Private room,2,1,1.0,$137.91,1,34,0.04,4.94,62
+1000660,200031,f,Manhattan,Upper East Side,40.77321,-73.98177,Private room,2,1,1.0,$202.06,2,19,1.01,4.91,363
+1000661,200348,f,Staten Island,Todt Hill,40.55355,-74.15366,Private room,1,1,2.0,$56.49,2,98,0.85,4.52,107
+1000662,200224,t,Brooklyn,DUMBO,40.65267,-73.95114,Entire home/apt,3,1,1.2,$226.27,2,30,1.03,4.68,13
+1000663,200153,t,Manhattan,Midtown,40.77391,-73.95542,Entire home/apt,2,1,1.2,$204.16,1,20,0.55,4.64,22
+1000664,200212,f,Manhattan,SoHo,40.76788,-73.98262,Entire home/apt,5,2,2.0,$228.38,2,25,1.25,4.94,110
+1000665,200092,f,Manhattan,Upper East Side,40.77738,-73.9799,Entire home/apt,4,2,2.5,$298.12,1,13,0.78,4.62,320
+1000666,200331,f,Manhattan,Hell's Kitchen,40.80364,-73.98828,Entire home/apt,3,1,1.0,$250.33,2,24,0.41,4.75,159
+1000667,200348,t,Manhattan,Hell's Kitchen,40.77741,-73.96622,Entire home/apt,3,1,1.2,$360.12,1,27,1.86,4.92,40
+1000668,200129,t,Manhattan,Hell's Kitchen,40.79632,-73.9769,Entire home/apt,2,1,1.0,$280.37,2,23,3.09,4.46,281
+1000669,200197,f,Manhattan,Midtown,40.75433,-73.97345,Private room,1,1,1.5,$103.63,3,30,1.27,4.83,303
+1000670,200042,t,Manhattan,Upper East Side,40.80338,-73.96697,Private room,2,1,1.0,$112.35,2,16,2.32,4.72,143
+1000671,200366,t,Queens,Flushing,40.73175,-73.81085,Private room,2,1,1.5,$82.12,2,3,2.18,4.81,287
+1000672,200228,f,Manhattan,SoHo,40.76561,-73.97093,Private room,2,1,1.0,$253.84,2,60,3.69,4.88,152
+1000673,200194,f,Brooklyn,Bushwick,40.6568,-73.93248,Entire home/apt,3,2,2.0,$218.78,5,145,2.15,4.52,81
+1000674,200018,t,Manhattan,Upper East Side,40.7704,-73.97157,Private room,2,1,1.0,$224.35,1,2,1.41,4.91,364
+1000675,200333,f,Staten Island,Todt Hill,40.55121,-74.15611,Entire home/apt,4,2,2.0,$278.05,3,24,1.02,4.86,225
+1000676,200243,f,Manhattan,Greenwich Village,40.76531,-74.00603,Private room,2,1,1.0,$121.88,3,24,0.7,4.61,151
+1000677,200389,f,Manhattan,Chelsea,40.79123,-73.94658,Entire home/apt,4,2,2.0,$264.08,2,5,1.31,4.56,258
+1000678,200276,f,Bronx,Pelham Bay,40.86174,-73.85457,Hotel room,4,2,1.0,$142.82,1,10,2.53,4.4,317
+1000679,200127,t,Queens,Long Island City,40.72199,-73.78281,Entire home/apt,2,1,1.8,$216.58,2,20,3.26,4.64,78
+1000680,200075,t,Queens,Astoria,40.74656,-73.79285,Entire home/apt,2,1,1.0,$233.02,1,2,0.72,4.87,194
+1000681,200062,t,Manhattan,Upper East Side,40.76533,-73.97869,Private room,2,1,1.0,$123.63,1,12,0.84,4.95,222
+1000682,200288,f,Manhattan,Greenwich Village,40.80864,-73.97232,Entire home/apt,3,1,1.0,$386.02,1,25,2.9,4.77,265
+1000683,200186,t,Brooklyn,Bushwick,40.62833,-73.96623,Private room,1,1,1.5,$148.70,1,42,3.82,4.68,229
+1000684,200178,f,Bronx,Riverdale,40.83843,-73.84926,Private room,2,1,1.0,$55.47,2,38,0.19,4.57,149
+1000685,200166,f,Brooklyn,Williamsburg,40.6741,-73.92838,Private room,2,1,1.0,$159.52,5,23,1.3,4.86,135
+1000686,200183,t,Brooklyn,Park Slope,40.67031,-73.97366,Shared room,1,1,1.0,$37.13,1,32,2.14,4.88,122
+1000687,200028,t,Manhattan,Upper East Side,40.77573,-73.96603,Shared room,1,1,1.0,$47.50,30,81,1.99,4.85,357
+1000688,200330,f,Brooklyn,Bed-Stuy,40.68213,-73.96303,Entire home/apt,3,1,1.2,$90.93,30,10,0.25,4.53,109
+1000689,200247,f,Manhattan,Lower East Side,40.77783,-73.93093,Private room,1,1,1.0,$221.34,30,11,1.31,4.91,142
+1000690,200337,t,Manhattan,Midtown,40.7646,-73.96129,Private room,2,1,1.0,$74.87,5,17,1.0,4.82,69
+1000691,200022,t,Manhattan,Greenwich Village,40.75165,-73.95824,Private room,2,1,1.0,$105.05,2,50,0.36,4.97,53
+1000692,200096,f,Brooklyn,Bushwick,40.66482,-73.93817,Entire home/apt,5,2,1.5,$175.66,1,3,2.24,4.8,331
+1000693,200122,t,Manhattan,Upper East Side,40.76373,-73.96684,Private room,1,1,1.0,$107.00,2,16,3.18,4.91,39
+1000694,200250,f,Manhattan,Midtown,40.76947,-73.98193,Hotel room,4,1,1.0,$640.60,2,56,1.4,4.82,196
+1000695,200379,t,Brooklyn,Park Slope,40.68483,-73.95066,Private room,1,1,1.5,$185.73,5,23,1.02,4.83,26
+1000696,200308,f,Manhattan,SoHo,40.78881,-73.97406,Entire home/apt,2,1,1.0,$154.64,30,24,1.46,4.78,329
+1000697,200334,t,Brooklyn,Williamsburg,40.67921,-73.93752,Entire home/apt,4,2,1.5,$206.11,2,18,2.36,4.69,298
+1000698,200326,f,Manhattan,Harlem,40.77785,-73.98614,Entire home/apt,3,1,1.0,$298.75,2,46,0.14,4.71,179
+1000699,200137,t,Brooklyn,Crown Heights,40.67022,-73.92627,Private room,1,1,1.0,$64.75,1,14,3.35,4.74,45
+1000700,200277,f,Brooklyn,Bed-Stuy,40.67994,-73.95687,Private room,2,1,1.0,$88.00,1,22,0.76,4.96,141
+1000701,200320,t,Manhattan,Lower East Side,40.78912,-73.96418,Entire home/apt,2,1,1.2,$165.52,2,23,1.67,4.86,319
+1000702,200332,t,Manhattan,Greenwich Village,40.7909,-73.98587,Entire home/apt,4,2,2.5,$269.55,2,2,1.39,4.73,97
+1000703,200061,f,Manhattan,Chelsea,40.77286,-73.98135,Entire home/apt,5,2,1.5,$308.34,5,2,0.8,4.76,125
+1000704,200250,f,Manhattan,Lower East Side,40.77769,-73.96312,Entire home/apt,4,2,1.5,$263.95,2,76,4.17,4.57,57
+1000705,200095,f,Staten Island,Todt Hill,40.58394,-74.14457,Private room,2,1,1.5,$30.20,30,74,2.26,4.96,176
+1000706,200296,f,Manhattan,Greenwich Village,40.80341,-73.96087,Private room,2,1,1.5,$173.33,2,4,2.89,4.83,206
+1000707,200184,f,Queens,Long Island City,40.72607,-73.81266,Entire home/apt,5,2,2.0,$98.80,5,0,,5.0,284
+1000708,200260,f,Manhattan,Midtown,40.77238,-73.97513,Private room,2,1,1.5,$122.75,1,2,2.08,4.93,153
+1000709,200287,f,Brooklyn,Greenpoint,40.69064,-73.94461,Entire home/apt,3,1,1.2,$296.92,7,19,1.48,4.97,26
+1000710,200155,f,Brooklyn,Bed-Stuy,40.66836,-73.95519,Shared room,1,1,1.0,$40.97,3,15,1.3,4.75,322
+1000711,200186,t,Brooklyn,Bed-Stuy,40.67716,-73.93085,Entire home/apt,3,1,1.0,$356.89,1,0,,5.0,162
+1000712,200069,f,Brooklyn,Williamsburg,40.70207,-73.94729,Entire home/apt,3,1,1.0,$251.03,1,27,0.75,4.59,249
+1000713,200326,f,Manhattan,Harlem,40.78243,-73.98941,Entire home/apt,8,4,3.0,$201.91,30,21,0.47,4.86,187
+1000714,200261,t,Manhattan,Midtown,40.81219,-73.99222,Private room,2,1,1.0,$131.28,1,42,1.03,4.26,333
+1000715,200115,f,Bronx,Riverdale,40.86237,-73.87028,Private room,2,1,1.0,$44.74,2,35,2.34,4.95,89
+1000716,200347,t,Queens,Flushing,40.71921,-73.81155,Private room,1,1,1.0,$102.92,2,32,3.13,4.71,130
+1000717,200008,f,Bronx,Pelham Bay,40.88095,-73.86148,Entire home/apt,2,1,1.2,$433.31,3,68,0.82,4.67,297
+1000718,200265,t,Manhattan,SoHo,40.78342,-73.9579,Entire home/apt,2,2,2.0,$209.79,5,9,1.61,4.93,12
+1000719,200271,t,Brooklyn,DUMBO,40.66844,-73.94417,Entire home/apt,3,1,1.0,$158.54,2,17,1.96,4.88,28
+1000720,200249,f,Bronx,Pelham Bay,40.84565,-73.87248,Private room,2,1,1.0,$51.74,2,8,1.33,4.91,264
+1000721,200105,f,Manhattan,Upper East Side,40.80109,-73.97448,Entire home/apt,5,2,2.0,$260.38,30,45,1.41,4.85,31
+1000722,200263,f,Manhattan,Harlem,40.7598,-73.97572,Private room,2,1,1.0,$108.39,3,62,1.31,4.81,149
+1000723,200224,f,Brooklyn,Bed-Stuy,40.68194,-73.9576,Private room,1,1,1.0,$108.10,7,2,1.61,4.93,85
+1000724,200328,f,Brooklyn,Park Slope,40.66598,-73.95239,Private room,3,1,1.0,$46.71,2,24,1.08,4.97,57
+1000725,200371,t,Queens,Astoria,40.74652,-73.80221,Entire home/apt,8,4,3.5,$244.50,1,15,2.52,4.97,56
+1000726,200271,f,Manhattan,Midtown,40.80454,-73.98042,Entire home/apt,5,2,2.0,$190.38,2,31,1.33,4.65,24
+1000727,200165,f,Brooklyn,Brooklyn Heights,40.68308,-73.95089,Entire home/apt,4,2,1.5,$179.54,3,62,0.99,4.42,189
+1000728,200083,f,Manhattan,Lower East Side,40.79441,-73.98797,Private room,2,1,1.5,$106.80,1,3,0.75,4.86,75
+1000729,200295,t,Manhattan,Hell's Kitchen,40.79424,-73.96949,Private room,1,1,1.0,$133.61,1,5,1.17,4.74,338
+1000730,200134,f,Manhattan,Chelsea,40.7735,-73.97369,Entire home/apt,3,1,1.0,$219.38,1,65,0.61,4.28,224
+1000731,200211,t,Queens,Flushing,40.75121,-73.79283,Entire home/apt,2,1,1.2,$278.77,2,21,3.68,4.87,182
+1000732,200313,f,Brooklyn,Bushwick,40.66766,-73.96227,Private room,3,1,1.0,$93.25,5,113,2.46,4.93,153
+1000733,200092,f,Brooklyn,DUMBO,40.68578,-73.94126,Private room,2,1,1.0,$53.99,1,6,1.88,4.71,268
+1000734,200337,f,Manhattan,Harlem,40.79353,-73.99313,Entire home/apt,3,2,1.5,$239.11,3,54,1.73,4.94,277
+1000735,200127,f,Queens,Long Island City,40.71062,-73.7777,Private room,2,1,1.5,$64.64,30,2,1.25,4.65,339
+1000736,200191,t,Manhattan,Hell's Kitchen,40.78807,-73.9632,Entire home/apt,4,2,1.5,$139.29,1,7,1.07,4.51,362
+1000737,200159,f,Queens,Ridgewood,40.71376,-73.80961,Entire home/apt,8,4,3.0,$223.53,3,5,0.76,4.82,22
+1000738,200331,f,Manhattan,Harlem,40.79797,-73.95562,Private room,2,1,1.0,$108.36,30,33,1.15,4.83,13
+1000739,200335,t,Manhattan,Chelsea,40.76678,-73.99039,Private room,2,1,1.0,$157.61,30,16,1.11,4.75,93
+1000740,200010,f,Brooklyn,Crown Heights,40.67657,-73.95619,Private room,2,1,1.0,$68.93,1,25,2.53,4.79,342
+1000741,200107,t,Manhattan,SoHo,40.7708,-73.98997,Entire home/apt,6,3,2.2,$141.25,1,59,3.57,4.64,51
+1000742,200087,f,Brooklyn,Williamsburg,40.67117,-73.96152,Private room,1,1,1.0,$127.99,1,0,,5.0,338
+1000743,200067,f,Brooklyn,Bushwick,40.66177,-73.93972,Entire home/apt,5,2,2.0,$218.49,3,5,0.61,4.77,40
+1000744,200062,f,Manhattan,Greenwich Village,40.78227,-73.96393,Entire home/apt,3,1,1.8,$279.44,3,18,0.25,4.65,163
+1000745,200387,t,Queens,Astoria,40.70346,-73.79475,Private room,2,1,1.0,$87.20,3,13,1.25,4.97,5
+1000746,200146,f,Manhattan,Hell's Kitchen,40.81423,-73.97678,Entire home/apt,2,1,1.0,$244.46,2,31,0.31,4.75,137
+1000747,200153,f,Brooklyn,Williamsburg,40.69057,-73.93196,Private room,2,1,1.0,$193.75,1,45,1.55,4.84,98
+1000748,200107,f,Queens,Flushing,40.74118,-73.7924,Private room,2,1,1.0,$115.86,2,83,5.16,4.43,340
+1000749,200148,t,Brooklyn,Greenpoint,40.68669,-73.93371,Entire home/apt,2,1,1.0,$208.78,2,23,0.72,4.91,223
+1000750,200186,t,Manhattan,Midtown,40.79263,-73.98796,Entire home/apt,3,2,1.5,$514.49,3,94,3.7,4.76,315
+1000751,200349,t,Bronx,Pelham Bay,40.81919,-73.8881,Entire home/apt,4,2,2.5,$169.82,2,3,0.25,4.76,29
+1000752,200342,f,Brooklyn,Bushwick,40.67415,-73.93529,Entire home/apt,3,1,1.0,$139.57,2,44,0.97,4.79,224
+1000753,200178,f,Manhattan,SoHo,40.76653,-73.95734,Private room,1,1,1.0,$73.23,1,11,0.54,4.9,325
+1000754,200377,f,Manhattan,Midtown,40.77557,-73.97859,Private room,2,1,1.0,$151.42,1,46,0.85,4.8,260
+1000755,200335,f,Brooklyn,Bushwick,40.66566,-73.97247,Entire home/apt,3,1,1.0,$289.90,1,56,0.06,4.56,246
+1000756,200266,f,Brooklyn,DUMBO,40.68164,-73.91851,Entire home/apt,2,1,1.0,$187.72,1,23,3.11,4.74,78
+1000757,200149,f,Brooklyn,Bushwick,40.67726,-73.97196,Private room,1,1,2.0,$97.63,2,60,1.97,4.65,184
+1000758,200247,t,Queens,Ridgewood,40.73991,-73.81927,Private room,2,1,1.5,$92.79,1,4,0.33,4.41,298
+1000759,200254,f,Brooklyn,Bushwick,40.66006,-73.94778,Entire home/apt,4,2,2.0,$190.74,1,8,0.66,4.68,179
+1000760,200029,f,Manhattan,Greenwich Village,40.78494,-73.98633,Entire home/apt,8,5,4.2,$353.96,3,4,2.47,4.71,76
+1000761,200352,f,Manhattan,Hell's Kitchen,40.77894,-73.96047,Private room,2,1,1.0,$255.73,2,30,1.66,4.52,261
+1000762,200266,f,Manhattan,SoHo,40.79588,-73.95243,Entire home/apt,4,3,2.2,$257.81,3,45,1.56,4.26,228
+1000763,200013,f,Brooklyn,Crown Heights,40.70684,-73.93205,Entire home/apt,4,2,1.5,$153.52,3,55,1.71,4.75,1
+1000764,200047,f,Manhattan,Harlem,40.77985,-73.95831,Private room,1,1,1.0,$183.52,2,110,3.57,4.93,16
+1000765,200151,f,Brooklyn,Crown Heights,40.6852,-73.9366,Private room,2,1,1.0,$112.42,30,15,0.06,4.91,343
+1000766,200050,t,Brooklyn,DUMBO,40.68086,-73.95788,Private room,1,1,1.0,$60.64,1,13,0.94,4.9,11
+1000767,200215,f,Queens,Flushing,40.71278,-73.79636,Private room,2,1,1.0,$59.98,3,7,0.27,4.86,181
+1000768,200132,f,Manhattan,Harlem,40.78533,-73.98139,Private room,2,1,1.0,$71.11,30,56,0.89,4.81,333
+1000769,200372,t,Queens,Sunnyside,40.73455,-73.76369,Entire home/apt,5,3,2.2,$110.40,7,37,1.67,4.58,6
+1000770,200113,f,Manhattan,SoHo,40.75694,-73.96247,Entire home/apt,6,3,2.2,$295.31,1,53,3.03,4.69,245
+1000771,200252,f,Queens,Long Island City,40.72721,-73.78814,Entire home/apt,3,2,1.5,$179.48,2,79,1.22,4.9,156
+1000772,200341,t,Manhattan,Greenwich Village,40.77664,-73.97339,Entire home/apt,3,1,1.2,$133.80,1,6,1.75,4.9,173
+1000773,200053,f,Manhattan,Harlem,40.78504,-73.97572,Private room,2,1,1.5,$161.35,2,50,1.97,4.95,328
+1000774,200130,f,Brooklyn,Greenpoint,40.65539,-73.94771,Private room,2,1,1.0,$102.77,3,47,2.11,4.82,333
+1000775,200324,f,Manhattan,Upper East Side,40.76185,-73.9614,Shared room,1,1,1.0,$35.66,2,79,1.34,4.77,180
+1000776,200193,t,Manhattan,Lower East Side,40.75512,-73.95577,Private room,2,1,1.5,$244.15,2,2,0.16,4.72,280
+1000777,200079,f,Brooklyn,Bushwick,40.68464,-73.9377,Entire home/apt,4,2,1.5,$263.26,3,9,0.8,4.68,308
+1000778,200057,t,Brooklyn,DUMBO,40.64574,-73.94913,Entire home/apt,2,1,1.0,$120.19,2,17,1.81,4.85,236
+1000779,200097,f,Brooklyn,Greenpoint,40.6955,-73.95198,Private room,2,1,1.5,$123.41,7,24,1.02,4.97,156
+1000780,200198,f,Brooklyn,Williamsburg,40.66203,-73.95375,Private room,2,1,1.0,$60.47,3,17,1.47,4.77,250
+1000781,200135,f,Brooklyn,Brooklyn Heights,40.67718,-73.95697,Private room,2,1,1.0,$147.73,1,35,1.78,4.27,220
+1000782,200147,t,Manhattan,Upper East Side,40.80161,-73.97217,Private room,2,1,1.0,$149.87,2,34,0.98,4.72,337
+1000783,200172,t,Manhattan,Lower East Side,40.77477,-73.99072,Private room,1,1,1.0,$116.68,1,68,0.42,4.82,222
+1000784,200063,t,Manhattan,Harlem,40.79037,-73.96428,Private room,1,1,1.0,$110.62,2,2,0.22,4.93,210
+1000785,200065,t,Queens,Sunnyside,40.71632,-73.82844,Entire home/apt,2,2,1.5,$73.25,30,40,1.93,4.89,336
+1000786,200295,f,Brooklyn,Crown Heights,40.68436,-73.947,Private room,2,1,1.0,$181.58,7,49,1.63,4.55,133
+1000787,200211,f,Manhattan,Harlem,40.78814,-73.94184,Private room,2,1,1.0,$132.16,2,9,0.45,4.73,331
+1000788,200109,f,Brooklyn,Bushwick,40.6778,-73.95191,Entire home/apt,4,2,1.5,$202.34,1,13,0.21,4.57,258
+1000789,200282,f,Bronx,Riverdale,40.82759,-73.86949,Private room,1,1,1.0,$154.32,1,38,3.11,4.8,34
+1000790,200172,t,Manhattan,Chelsea,40.78551,-73.9704,Entire home/apt,2,2,1.5,$241.66,2,3,0.72,4.88,182
+1000791,200012,t,Brooklyn,Bed-Stuy,40.70405,-73.93671,Shared room,1,1,1.0,$49.49,1,52,3.17,4.83,302
+1000792,200333,t,Brooklyn,Bed-Stuy,40.67618,-73.9548,Entire home/apt,5,2,1.5,$133.27,2,16,1.88,4.73,160
+1000793,200220,f,Brooklyn,Bed-Stuy,40.6822,-73.95781,Private room,2,1,1.0,$132.97,1,24,2.82,4.87,92
+1000794,200398,f,Manhattan,Lower East Side,40.7858,-73.96389,Entire home/apt,8,4,3.0,$185.26,2,51,1.6,4.79,196
+1000795,200342,t,Queens,Astoria,40.72495,-73.80435,Private room,2,1,1.0,$76.50,1,4,0.64,4.72,314
+1000796,200286,t,Bronx,Pelham Bay,40.81202,-73.84764,Entire home/apt,4,2,2.0,$118.67,30,67,4.16,4.9,205
+1000797,200172,f,Brooklyn,Crown Heights,40.68425,-73.93779,Entire home/apt,4,2,1.5,$320.31,3,2,0.97,4.71,351
+1000798,200236,f,Brooklyn,DUMBO,40.65478,-73.9235,Entire home/apt,2,1,1.0,$186.49,2,102,2.35,4.51,17
+1000799,200166,f,Bronx,Riverdale,40.83782,-73.86913,Private room,3,1,1.0,$33.37,1,52,2.8,4.7,233
+1000800,200187,f,Brooklyn,Greenpoint,40.66216,-73.971,Entire home/apt,2,1,1.0,$221.50,2,30,0.75,4.98,332
+1000801,200170,t,Manhattan,Midtown,40.80046,-73.9519,Entire home/apt,6,4,3.0,$412.80,1,52,2.16,4.93,65
+1000802,200052,f,Brooklyn,Park Slope,40.67572,-73.95439,Private room,3,1,1.5,$77.79,2,8,1.96,4.74,243
+1000803,200319,f,Brooklyn,Crown Heights,40.67254,-73.94944,Entire home/apt,5,2,1.5,$167.14,5,1,3.18,4.79,275
+1000804,200189,t,Manhattan,Chelsea,40.7651,-73.97558,Private room,2,1,1.0,$69.13,2,98,3.45,4.8,198
+1000805,200120,f,Brooklyn,Williamsburg,40.6805,-73.92893,Entire home/apt,2,2,2.0,$190.39,2,16,0.53,4.86,17
+1000806,200105,f,Bronx,Pelham Bay,40.84501,-73.88845,Private room,2,1,1.5,$73.14,2,56,1.68,4.56,71
+1000807,200162,t,Bronx,Riverdale,40.8501,-73.86864,Entire home/apt,5,3,2.8,$49.81,30,44,0.21,4.8,154
+1000808,200295,f,Brooklyn,Bed-Stuy,40.69876,-73.92276,Entire home/apt,4,2,2.0,$167.56,30,22,1.02,4.83,169
+1000809,200041,t,Manhattan,Lower East Side,40.80507,-73.97962,Private room,2,1,1.0,$83.82,2,12,5.08,4.73,321
+1000810,200377,t,Staten Island,Todt Hill,40.60935,-74.14494,Private room,1,1,1.0,$60.77,2,18,0.57,4.86,354
+1000811,200364,f,Queens,Flushing,40.7526,-73.80244,Private room,2,1,1.0,$70.82,2,22,1.0,4.93,281
+1000812,200165,t,Manhattan,Hell's Kitchen,40.77862,-73.96709,Entire home/apt,4,3,2.2,$507.14,1,17,1.04,4.8,150
+1000813,200321,f,Bronx,Riverdale,40.84708,-73.84598,Entire home/apt,2,2,1.5,$121.08,2,3,5.62,4.55,260
+1000814,200374,f,Queens,Ridgewood,40.72472,-73.77743,Entire home/apt,3,2,1.5,$247.53,2,47,1.58,4.67,79
+1000815,200335,t,Brooklyn,Bushwick,40.68918,-73.9474,Hotel room,2,1,1.0,$286.94,1,27,2.13,4.85,105
+1000816,200160,f,Brooklyn,Crown Heights,40.68802,-73.9513,Entire home/apt,4,3,2.2,$169.72,1,25,0.27,4.78,10
+1000817,200264,f,Manhattan,Hell's Kitchen,40.81835,-74.01116,Entire home/apt,4,2,1.5,$326.15,2,11,1.62,4.89,207
+1000818,200353,f,Manhattan,Chelsea,40.79319,-73.99767,Entire home/apt,8,5,4.2,$610.20,7,1,1.35,4.86,129
+1000819,200018,f,Manhattan,Midtown,40.77972,-73.97248,Private room,2,1,1.0,$100.80,2,0,,5.0,170
+1000820,200173,t,Queens,Astoria,40.75081,-73.80528,Entire home/apt,3,2,1.5,$198.75,3,30,0.56,4.9,32
+1000821,200352,f,Manhattan,Harlem,40.80272,-73.98888,Private room,2,1,1.5,$136.79,2,23,0.89,4.78,23
+1000822,200033,f,Manhattan,SoHo,40.8033,-73.97832,Entire home/apt,3,2,1.5,$274.25,2,21,1.43,4.6,196
+1000823,200261,f,Manhattan,Chelsea,40.7842,-73.97625,Private room,2,1,1.0,$221.40,2,0,,5.0,45
+1000824,200210,t,Brooklyn,Greenpoint,40.69744,-73.92788,Entire home/apt,3,1,1.8,$474.05,3,2,0.3,4.63,273
+1000825,200383,f,Queens,Long Island City,40.73485,-73.81218,Private room,2,1,1.5,$63.30,1,13,0.91,4.85,230
+1000826,200330,t,Manhattan,Hell's Kitchen,40.77237,-73.98663,Private room,2,1,1.0,$66.33,2,45,1.45,4.93,132
+1000827,200382,f,Manhattan,Lower East Side,40.74938,-73.95228,Entire home/apt,4,2,1.5,$178.41,1,68,1.68,4.99,263
+1000828,200164,f,Brooklyn,Crown Heights,40.67328,-73.94928,Shared room,1,1,1.0,$51.53,2,46,0.48,4.84,84
+1000829,200005,f,Brooklyn,Williamsburg,40.70064,-73.95134,Entire home/apt,2,1,1.8,$139.83,30,11,2.58,4.65,312
+1000830,200034,f,Manhattan,SoHo,40.77049,-73.97457,Private room,2,1,2.0,$218.76,1,8,4.96,4.67,4
+1000831,200280,t,Brooklyn,Crown Heights,40.66121,-73.93903,Private room,2,1,1.5,$142.59,2,34,1.49,4.61,268
+1000832,200145,t,Manhattan,Chelsea,40.7775,-73.97881,Entire home/apt,5,3,2.2,$300.63,2,72,1.15,4.79,338
+1000833,200351,t,Manhattan,Harlem,40.77419,-73.97279,Entire home/apt,3,1,1.0,$250.67,7,115,1.37,4.93,220
+1000834,200071,t,Brooklyn,Bushwick,40.67945,-73.952,Entire home/apt,2,1,1.2,$193.81,2,3,1.73,4.97,193
+1000835,200348,t,Manhattan,Upper East Side,40.77772,-73.97242,Entire home/apt,4,2,1.5,$230.69,3,51,1.18,4.92,345
+1000836,200230,f,Queens,Ridgewood,40.72546,-73.79443,Entire home/apt,4,3,2.8,$110.30,7,101,3.21,4.92,68
+1000837,200125,f,Manhattan,Harlem,40.77295,-73.95613,Entire home/apt,4,2,2.5,$241.40,2,39,2.12,4.8,287
+1000838,200278,t,Brooklyn,Bushwick,40.67965,-73.95176,Entire home/apt,2,2,2.5,$241.19,2,17,1.58,4.75,357
+1000839,200271,f,Brooklyn,Williamsburg,40.68337,-73.94532,Private room,2,1,1.0,$112.49,2,25,1.16,4.76,175
+1000840,200357,f,Manhattan,Lower East Side,40.75709,-73.96609,Entire home/apt,4,2,2.5,$253.52,5,51,0.55,4.91,324
+1000841,200015,f,Brooklyn,DUMBO,40.66291,-73.93018,Entire home/apt,2,1,1.2,$259.78,1,125,1.95,4.95,238
+1000842,200242,f,Manhattan,SoHo,40.77947,-73.9595,Private room,3,1,2.0,$141.11,2,8,2.21,4.84,178
+1000843,200153,t,Bronx,Riverdale,40.83535,-73.86375,Entire home/apt,2,1,1.0,$202.76,3,3,0.82,4.68,255
+1000844,200053,f,Manhattan,Midtown,40.80125,-73.97524,Entire home/apt,6,4,3.0,$303.76,2,10,3.15,4.93,210
+1000845,200149,f,Manhattan,SoHo,40.77424,-73.96137,Entire home/apt,2,1,1.0,$129.36,2,0,,5.0,226
+1000846,200358,t,Manhattan,Upper East Side,40.79263,-73.97943,Private room,3,1,1.0,$145.81,2,1,2.24,4.9,71
+1000847,200219,t,Staten Island,St. George,40.54972,-74.15935,Private room,2,1,1.0,$50.08,1,57,1.83,4.86,64
+1000848,200113,t,Brooklyn,Williamsburg,40.68836,-73.95583,Entire home/apt,2,2,1.5,$194.76,2,20,0.64,4.78,165
+1000849,200288,t,Brooklyn,Williamsburg,40.67804,-73.95406,Private room,2,1,1.0,$178.11,2,27,4.47,4.87,213
+1000850,200277,f,Manhattan,Midtown,40.75412,-73.98133,Private room,2,1,1.0,$245.34,30,47,1.33,4.66,16
+1000851,200083,f,Brooklyn,Brooklyn Heights,40.6883,-73.97975,Private room,2,1,1.5,$96.42,1,6,0.99,4.94,335
+1000852,200218,t,Manhattan,Greenwich Village,40.78688,-73.98899,Private room,2,1,1.0,$166.74,7,17,1.86,4.51,172
+1000853,200226,f,Queens,Sunnyside,40.73733,-73.78419,Private room,1,1,1.0,$71.86,2,35,4.01,4.67,128
+1000854,200270,f,Manhattan,Harlem,40.78052,-73.97375,Entire home/apt,3,1,1.2,$272.41,1,1,0.52,4.84,2
+1000855,200015,t,Manhattan,Lower East Side,40.771,-73.99138,Entire home/apt,3,1,1.0,$225.40,3,5,2.31,4.85,247
+1000856,200290,t,Manhattan,Upper East Side,40.80857,-73.98418,Entire home/apt,4,2,2.0,$222.44,1,132,1.11,4.67,69
+1000857,200339,t,Brooklyn,Bushwick,40.70172,-73.95709,Private room,2,1,1.5,$110.06,30,12,2.53,4.94,51
+1000858,200265,f,Brooklyn,DUMBO,40.68608,-73.96127,Private room,1,1,1.0,$96.33,7,19,2.42,4.5,258
+1000859,200199,t,Manhattan,Lower East Side,40.79095,-73.97608,Private room,1,1,1.0,$119.28,1,7,0.34,4.7,238
+1000860,200158,t,Brooklyn,Greenpoint,40.67351,-73.93505,Hotel room,2,2,1.0,$525.12,1,45,1.06,4.95,93
+1000861,200333,f,Brooklyn,Brooklyn Heights,40.67116,-73.96562,Entire home/apt,3,1,1.0,$228.23,2,23,0.67,4.83,46
+1000862,200397,f,Brooklyn,Greenpoint,40.68962,-73.96139,Private room,2,1,1.0,$122.09,2,30,2.84,4.78,74
+1000863,200207,t,Manhattan,Greenwich Village,40.79085,-73.95661,Private room,2,1,1.5,$118.28,2,16,1.91,4.74,90
+1000864,200174,t,Manhattan,Lower East Side,40.77747,-73.95346,Shared room,1,1,1.0,$98.55,2,33,3.02,4.65,85
+1000865,200184,f,Brooklyn,Greenpoint,40.68543,-73.95464,Hotel room,2,1,1.0,$291.85,2,30,2.43,4.94,5
+1000866,200265,f,Manhattan,Chelsea,40.80412,-73.98833,Private room,2,1,1.0,$345.25,1,6,0.85,4.86,229
+1000867,200246,f,Manhattan,SoHo,40.77745,-73.97429,Entire home/apt,6,4,3.5,$336.33,5,28,0.81,4.82,350
+1000868,200036,f,Queens,Sunnyside,40.73728,-73.77817,Private room,2,1,1.5,$65.70,5,51,1.74,4.83,316
+1000869,200373,t,Bronx,Riverdale,40.86059,-73.86144,Entire home/apt,4,3,2.2,$107.11,2,51,5.37,4.94,42
+1000870,200259,t,Manhattan,Chelsea,40.7789,-73.99859,Private room,1,1,1.0,$166.05,7,25,1.18,4.88,311
+1000871,200019,f,Manhattan,Lower East Side,40.76339,-73.9447,Private room,1,1,1.0,$89.64,1,27,1.74,4.68,197
+1000872,200023,t,Brooklyn,Williamsburg,40.65066,-73.95597,Entire home/apt,4,2,2.0,$151.04,1,79,2.34,4.79,302
+1000873,200104,f,Manhattan,Upper East Side,40.80027,-73.96805,Private room,2,1,1.0,$202.56,2,28,1.35,4.46,181
+1000874,200241,f,Manhattan,Harlem,40.79702,-73.96306,Entire home/apt,5,2,1.5,$192.06,2,161,5.44,4.92,168
+1000875,200391,f,Manhattan,Upper East Side,40.80514,-73.96677,Entire home/apt,2,2,2.0,$331.17,2,51,1.04,4.91,202
+1000876,200361,t,Brooklyn,Bed-Stuy,40.68815,-73.95506,Entire home/apt,5,2,2.0,$166.79,7,24,0.5,4.83,193
+1000877,200204,f,Brooklyn,Brooklyn Heights,40.68699,-73.95014,Private room,2,1,1.5,$66.28,30,13,2.39,4.85,30
+1000878,200253,f,Manhattan,Harlem,40.7763,-73.95778,Private room,2,1,2.0,$78.58,2,8,0.66,4.87,101
+1000879,200142,t,Manhattan,Hell's Kitchen,40.79662,-73.94587,Private room,2,1,1.0,$103.26,3,82,1.08,4.54,63
+1000880,200302,t,Manhattan,Upper East Side,40.80745,-73.95744,Entire home/apt,5,3,2.2,$307.72,1,71,1.68,4.62,345
+1000881,200143,f,Brooklyn,Greenpoint,40.65239,-73.91678,Private room,3,1,1.5,$194.95,1,27,1.16,4.92,90
+1000882,200271,f,Manhattan,Harlem,40.79687,-73.98269,Private room,2,1,1.0,$140.51,3,3,1.55,4.97,249
+1000883,200307,f,Manhattan,Harlem,40.79403,-73.98676,Entire home/apt,3,2,1.5,$357.79,2,39,1.47,4.82,182
+1000884,200110,t,Brooklyn,Brooklyn Heights,40.68748,-73.96394,Entire home/apt,5,2,1.5,$185.32,2,35,4.58,4.43,301
+1000885,200008,f,Manhattan,Hell's Kitchen,40.77098,-73.96055,Entire home/apt,5,2,1.5,$291.35,2,29,1.99,4.42,365
+1000886,200069,f,Brooklyn,Park Slope,40.69429,-73.93932,Private room,2,1,1.5,$99.27,2,9,1.28,4.8,350
+1000887,200190,f,Manhattan,Chelsea,40.77881,-74.00292,Private room,2,1,1.0,$64.83,1,14,0.88,4.83,279
+1000888,200179,f,Manhattan,Harlem,40.77996,-73.9632,Private room,1,1,1.5,$98.86,2,17,0.91,4.79,204
+1000889,200063,f,Manhattan,Midtown,40.77835,-73.97154,Entire home/apt,2,1,1.2,$319.08,1,18,0.18,4.94,88
+1000890,200068,f,Brooklyn,Park Slope,40.67542,-73.94903,Private room,1,1,1.0,$137.94,1,38,3.51,4.71,292
+1000891,200206,t,Queens,Ridgewood,40.72934,-73.79899,Entire home/apt,3,1,1.0,$140.83,2,38,1.24,4.85,284
+1000892,200006,f,Queens,Flushing,40.74985,-73.828,Entire home/apt,6,3,2.2,$221.12,1,3,2.12,4.45,158
+1000893,200119,f,Manhattan,Upper East Side,40.77491,-73.98425,Private room,2,1,2.0,$127.53,7,22,1.41,4.84,362
+1000894,200313,t,Brooklyn,Brooklyn Heights,40.68149,-73.94304,Entire home/apt,2,1,1.0,$158.06,1,40,1.81,4.92,129
+1000895,200031,f,Manhattan,Upper East Side,40.80743,-73.94193,Private room,2,1,1.0,$203.62,1,22,0.54,4.92,247
+1000896,200006,f,Manhattan,Greenwich Village,40.7715,-73.97119,Entire home/apt,4,2,1.5,$175.49,2,19,2.54,4.64,139
+1000897,200207,t,Queens,Long Island City,40.73114,-73.80687,Private room,2,1,1.0,$103.58,2,6,0.32,4.92,188
+1000898,200157,t,Manhattan,Harlem,40.79253,-73.97479,Entire home/apt,4,2,2.0,$159.60,1,49,1.17,4.61,90
+1000899,200067,f,Manhattan,Chelsea,40.76709,-73.97539,Private room,2,1,1.0,$130.46,1,11,1.86,4.66,55
+1000900,200387,t,Manhattan,Upper East Side,40.76813,-73.95565,Entire home/apt,4,2,1.5,$199.16,30,51,1.97,4.83,225
+1000901,200330,f,Manhattan,Hell's Kitchen,40.81162,-73.96753,Entire home/apt,4,3,2.2,$255.76,3,1,0.93,4.36,333
+1000902,200370,t,Manhattan,Upper East Side,40.78477,-73.96891,Private room,3,1,1.5,$66.09,2,79,0.3,4.66,326
+1000903,200353,f,Brooklyn,Williamsburg,40.69593,-73.92679,Entire home/apt,3,2,1.5,$350.26,2,103,2.0,4.72,164
+1000904,200336,t,Manhattan,Upper East Side,40.78137,-73.96741,Private room,1,1,1.5,$141.81,1,24,0.93,4.94,35
+1000905,200379,t,Queens,Astoria,40.73799,-73.81197,Hotel room,2,1,1.0,$215.70,2,1,1.95,4.84,329
+1000906,200394,f,Queens,Ridgewood,40.74639,-73.76888,Entire home/apt,3,1,1.2,$220.76,2,3,1.37,4.76,28
+1000907,200289,f,Manhattan,Harlem,40.80058,-73.98988,Entire home/apt,2,1,1.0,$187.45,7,28,0.35,4.83,79
+1000908,200140,t,Manhattan,Midtown,40.75355,-73.96057,Private room,1,1,2.0,$104.68,1,52,2.34,4.71,357
+1000909,200300,t,Manhattan,Chelsea,40.7717,-73.96689,Shared room,1,1,1.0,$28.91,5,45,0.54,4.8,168
+1000910,200013,f,Brooklyn,Park Slope,40.70123,-73.95405,Private room,2,1,1.0,$69.69,1,67,0.8,4.7,32
+1000911,200152,f,Manhattan,Harlem,40.77744,-73.96705,Entire home/apt,4,2,1.5,$394.68,1,9,3.33,4.46,92
+1000912,200313,f,Brooklyn,Williamsburg,40.65874,-73.95557,Private room,2,1,1.5,$84.35,1,22,1.37,4.86,111
+1000913,200352,f,Manhattan,Harlem,40.78347,-73.97571,Entire home/apt,4,2,2.0,$324.40,1,41,0.94,4.86,208
+1000914,200109,f,Brooklyn,Crown Heights,40.68733,-73.90271,Shared room,1,1,1.0,$83.46,30,5,5.81,4.73,193
+1000915,200376,f,Manhattan,Harlem,40.78459,-73.98383,Shared room,1,1,1.0,$63.97,2,56,0.5,4.73,263
+1000916,200356,f,Manhattan,Harlem,40.80437,-73.99503,Entire home/apt,3,1,1.2,$263.44,1,51,2.96,4.88,246
+1000917,200149,f,Bronx,Mott Haven,40.82397,-73.87373,Entire home/apt,5,2,2.5,$172.27,30,9,1.53,4.72,117
+1000918,200367,t,Brooklyn,Bushwick,40.67396,-73.95349,Entire home/apt,2,1,1.0,$182.48,7,10,0.21,4.69,227
+1000919,200204,t,Manhattan,Greenwich Village,40.78263,-73.96708,Entire home/apt,4,3,2.8,$324.54,3,69,1.1,4.68,8
+1000920,200307,t,Queens,Flushing,40.74423,-73.79353,Private room,1,1,1.0,$72.82,30,50,4.3,4.64,198
+1000921,200021,t,Brooklyn,Williamsburg,40.66977,-73.92898,Entire home/apt,2,1,1.0,$93.28,1,27,2.8,4.9,276
+1000922,200060,t,Queens,Astoria,40.71593,-73.81939,Entire home/apt,6,3,2.2,$57.95,5,24,0.55,4.99,128
+1000923,200021,f,Brooklyn,Bed-Stuy,40.69629,-73.92707,Entire home/apt,4,2,2.5,$194.39,3,33,1.67,4.8,301
+1000924,200363,f,Manhattan,SoHo,40.77122,-73.97719,Hotel room,2,2,1.0,$252.55,7,17,1.28,4.72,61
+1000925,200382,f,Manhattan,Upper East Side,40.76935,-73.9663,Private room,1,1,1.0,$56.24,3,22,1.24,4.92,1
+1000926,200245,t,Manhattan,Hell's Kitchen,40.80908,-73.96066,Entire home/apt,2,1,1.2,$480.69,2,2,0.88,4.72,359
+1000927,200390,t,Brooklyn,Bed-Stuy,40.69374,-73.9319,Entire home/apt,2,1,1.2,$480.30,3,18,1.53,4.89,330
+1000928,200073,f,Brooklyn,DUMBO,40.6782,-73.92795,Hotel room,2,2,1.0,$110.03,1,26,0.76,4.89,356
+1000929,200076,t,Manhattan,Chelsea,40.79428,-73.94961,Private room,3,1,1.0,$155.82,2,15,2.64,4.84,171
+1000930,200186,f,Manhattan,Midtown,40.77621,-73.99727,Entire home/apt,5,2,2.5,$254.41,1,5,1.23,4.62,244
+1000931,200078,f,Queens,Sunnyside,40.74388,-73.78965,Entire home/apt,6,3,3.2,$116.01,30,11,2.8,4.48,87
+1000932,200390,t,Staten Island,St. George,40.57506,-74.1538,Entire home/apt,3,1,1.2,$166.96,1,47,0.84,4.61,82
+1000933,200065,t,Brooklyn,Bushwick,40.71652,-73.95383,Entire home/apt,5,2,1.5,$179.74,2,6,0.83,4.78,4
+1000934,200342,f,Manhattan,Chelsea,40.7703,-73.96992,Private room,2,1,1.0,$102.42,2,26,1.3,4.53,348
+1000935,200290,f,Manhattan,Hell's Kitchen,40.80081,-73.93702,Private room,2,1,1.0,$84.58,30,8,0.74,4.55,38
+1000936,200056,f,Manhattan,Hell's Kitchen,40.79296,-73.99026,Entire home/apt,2,2,2.0,$323.11,2,81,1.21,4.96,321
+1000937,200331,f,Queens,Sunnyside,40.75776,-73.79519,Private room,2,1,1.0,$71.25,3,43,0.77,4.83,300
+1000938,200259,t,Manhattan,SoHo,40.77053,-73.98739,Entire home/apt,4,3,2.2,$512.66,7,101,1.77,4.94,74
+1000939,200190,f,Brooklyn,Park Slope,40.69074,-73.94062,Private room,2,1,1.0,$99.35,2,35,0.63,4.87,100
+1000940,200006,t,Manhattan,Harlem,40.78828,-73.9519,Private room,2,1,1.5,$72.26,2,59,2.44,4.8,140
+1000941,200006,t,Brooklyn,Bushwick,40.66617,-73.92371,Entire home/apt,4,3,2.2,$138.21,3,11,1.41,4.65,92
+1000942,200191,f,Brooklyn,DUMBO,40.67041,-73.91174,Entire home/apt,3,2,2.0,$197.08,30,22,1.09,4.77,118
+1000943,200148,f,Queens,Ridgewood,40.73718,-73.8087,Private room,1,1,1.0,$60.12,3,7,0.47,4.86,287
+1000944,200258,t,Manhattan,Chelsea,40.75272,-73.95907,Entire home/apt,2,1,1.8,$296.36,1,16,0.41,4.67,108
+1000945,200218,t,Manhattan,Lower East Side,40.77749,-73.97353,Entire home/apt,5,2,1.5,$142.90,7,3,4.13,4.9,42
+1000946,200090,t,Manhattan,Harlem,40.79459,-73.95604,Private room,2,1,1.0,$186.05,2,4,1.92,4.87,135
+1000947,200312,t,Queens,Ridgewood,40.74656,-73.81252,Hotel room,4,1,1.0,$152.45,2,102,1.85,4.86,329
+1000948,200352,t,Queens,Flushing,40.74959,-73.80359,Entire home/apt,4,2,1.5,$118.30,5,12,0.79,4.46,216
+1000949,200010,f,Brooklyn,Greenpoint,40.64436,-73.96188,Private room,2,1,1.0,$59.90,1,44,2.1,4.77,155
+1000950,200087,f,Brooklyn,DUMBO,40.68147,-73.95888,Entire home/apt,2,1,1.2,$167.15,3,185,1.3,4.87,38
+1000951,200250,f,Brooklyn,Bushwick,40.67688,-73.93913,Private room,2,1,1.0,$116.68,2,17,1.06,4.98,281
+1000952,200326,f,Manhattan,Lower East Side,40.78038,-73.97862,Private room,2,1,1.0,$155.42,7,3,0.49,4.95,327
+1000953,200151,f,Queens,Flushing,40.70944,-73.79457,Private room,3,1,1.0,$54.17,1,2,1.77,4.82,357
+1000954,200113,f,Manhattan,Lower East Side,40.75213,-73.98149,Entire home/apt,4,2,1.5,$299.84,2,3,4.4,4.69,25
+1000955,200030,f,Manhattan,Greenwich Village,40.76918,-73.97479,Private room,1,1,1.0,$130.79,5,23,3.31,4.73,31
+1000956,200128,t,Brooklyn,Bed-Stuy,40.675,-73.9298,Private room,2,1,1.0,$77.21,1,21,2.54,4.75,45
+1000957,200078,f,Manhattan,Greenwich Village,40.80685,-73.98797,Entire home/apt,5,2,1.5,$431.11,1,53,0.52,4.54,155
+1000958,200055,f,Manhattan,Upper East Side,40.81299,-73.98289,Entire home/apt,2,1,1.0,$309.33,30,10,0.5,4.44,243
+1000959,200305,f,Brooklyn,DUMBO,40.68079,-73.93654,Entire home/apt,2,2,1.5,$153.78,1,3,2.2,4.91,34
+1000960,200034,f,Manhattan,Midtown,40.81977,-73.97933,Entire home/apt,4,2,1.5,$228.86,30,22,1.51,4.98,277
+1000961,200105,f,Brooklyn,DUMBO,40.65125,-73.92184,Private room,1,1,1.0,$96.09,1,29,1.06,4.96,241
+1000962,200172,f,Manhattan,Harlem,40.7706,-73.97662,Entire home/apt,4,2,1.5,$383.22,2,19,0.9,4.67,258
+1000963,200022,t,Manhattan,Greenwich Village,40.76633,-73.97658,Entire home/apt,3,1,1.0,$329.91,3,3,0.16,4.76,45
+1000964,200287,f,Manhattan,Upper East Side,40.77049,-73.96105,Private room,2,1,2.0,$128.03,3,9,2.08,4.98,236
+1000965,200391,t,Manhattan,SoHo,40.78431,-73.98142,Entire home/apt,2,1,1.2,$152.31,2,6,1.46,4.87,7
+1000966,200105,t,Brooklyn,Park Slope,40.69314,-73.94038,Entire home/apt,3,1,1.0,$117.98,2,66,0.72,4.89,259
+1000967,200149,t,Manhattan,Hell's Kitchen,40.75541,-73.9574,Entire home/apt,4,2,1.5,$299.69,5,22,3.88,4.87,270
+1000968,200272,f,Brooklyn,Park Slope,40.68097,-73.92334,Shared room,1,1,1.0,$72.55,1,32,0.54,4.87,43
+1000969,200276,t,Brooklyn,Williamsburg,40.68006,-73.95608,Private room,2,1,1.0,$125.08,2,11,0.49,4.66,237
+1000970,200299,f,Brooklyn,Park Slope,40.67514,-73.93214,Private room,2,1,1.0,$66.57,1,15,1.15,4.87,166
+1000971,200172,t,Bronx,Pelham Bay,40.83324,-73.8714,Entire home/apt,6,3,2.2,$111.02,2,15,1.83,4.8,75
+1000972,200047,f,Brooklyn,Williamsburg,40.67487,-73.96144,Private room,1,1,1.0,$101.25,1,76,3.24,4.9,156
+1000973,200114,f,Manhattan,Greenwich Village,40.77176,-73.96861,Entire home/apt,5,2,1.5,$126.58,2,82,1.63,4.74,200
+1000974,200275,t,Manhattan,SoHo,40.80114,-73.96644,Entire home/apt,3,2,2.5,$184.10,2,16,2.36,4.73,233
+1000975,200304,f,Manhattan,Midtown,40.78241,-73.98367,Entire home/apt,3,1,1.2,$180.16,1,60,2.56,4.96,231
+1000976,200207,f,Brooklyn,Bushwick,40.69463,-73.9377,Private room,1,1,1.5,$166.40,1,13,2.72,4.84,211
+1000977,200395,f,Manhattan,Harlem,40.7725,-73.95772,Entire home/apt,4,3,2.8,$123.59,3,22,1.63,4.69,153
+1000978,200242,f,Brooklyn,Greenpoint,40.68659,-73.9564,Entire home/apt,5,2,1.5,$264.40,2,20,1.63,4.62,212
+1000979,200301,f,Brooklyn,Brooklyn Heights,40.67668,-73.95159,Entire home/apt,2,1,1.0,$149.79,7,7,0.84,4.8,86
+1000980,200196,f,Manhattan,Lower East Side,40.8226,-73.96322,Entire home/apt,5,2,1.5,$163.81,3,25,1.26,4.88,17
+1000981,200164,f,Brooklyn,Crown Heights,40.681,-73.93711,Private room,2,1,1.0,$106.10,1,0,,5.0,190
+1000982,200176,t,Manhattan,Hell's Kitchen,40.80379,-73.97245,Entire home/apt,2,2,2.0,$204.19,2,72,1.83,4.65,307
+1000983,200343,f,Manhattan,Chelsea,40.77425,-73.95854,Private room,2,1,1.5,$90.71,1,51,3.03,4.87,53
+1000984,200271,t,Brooklyn,Williamsburg,40.67558,-73.96025,Entire home/apt,6,4,3.0,$165.39,3,59,0.97,4.93,215
+1000985,200110,f,Brooklyn,Bushwick,40.65923,-73.92126,Private room,1,1,1.0,$113.16,30,17,2.24,4.7,41
+1000986,200172,f,Brooklyn,Bushwick,40.68017,-73.95304,Private room,2,1,1.5,$112.82,2,88,0.47,4.78,348
+1000987,200352,t,Manhattan,Lower East Side,40.77958,-73.95909,Entire home/apt,4,2,2.0,$211.79,3,40,2.36,4.92,229
+1000988,200202,t,Manhattan,Hell's Kitchen,40.7787,-73.99294,Entire home/apt,4,3,2.2,$175.66,1,68,0.65,4.74,229
+1000989,200168,t,Queens,Astoria,40.73309,-73.77677,Private room,1,1,2.0,$98.56,2,6,4.57,4.53,181
+1000990,200102,f,Brooklyn,Bed-Stuy,40.69532,-73.95259,Private room,2,1,1.5,$74.87,7,10,2.12,4.65,140
+1000991,200086,f,Brooklyn,Park Slope,40.69724,-73.94101,Entire home/apt,3,1,1.0,$186.39,1,65,2.43,4.82,287
+1000992,200142,f,Manhattan,Chelsea,40.80172,-73.96259,Entire home/apt,2,2,2.5,$339.75,1,35,2.9,4.64,338
+1000993,200337,f,Brooklyn,Bushwick,40.65538,-73.918,Private room,2,1,1.0,$102.44,2,70,1.01,4.73,336
+1000994,200213,t,Manhattan,SoHo,40.78388,-73.96255,Private room,3,1,1.0,$194.21,3,44,1.32,4.79,321
+1000995,200051,f,Manhattan,Chelsea,40.76294,-73.96362,Entire home/apt,5,2,1.5,$329.69,2,33,0.91,4.6,81
+1000996,200112,f,Queens,Sunnyside,40.74474,-73.76587,Entire home/apt,4,2,2.5,$246.45,30,3,0.9,4.95,166
+1000997,200271,f,Manhattan,Chelsea,40.80411,-73.96289,Entire home/apt,3,1,1.0,$229.74,1,1,0.26,4.63,333
+1000998,200065,t,Bronx,Riverdale,40.82163,-73.86282,Private room,3,1,1.0,$103.28,2,61,1.6,4.88,53
+1000999,200344,f,Manhattan,Lower East Side,40.77421,-73.96768,Entire home/apt,5,2,1.5,$192.93,3,5,1.43,4.87,72
+1001000,200183,f,Manhattan,Upper East Side,40.76486,-73.97435,Hotel room,2,1,1.0,$276.92,1,74,0.21,4.92,212
+1001001,200332,f,Brooklyn,Park Slope,40.67044,-73.95242,Entire home/apt,2,1,1.0,$207.13,3,11,2.08,4.99,170
+1001002,200010,t,Queens,Ridgewood,40.72013,-73.79694,Entire home/apt,4,2,2.5,$199.18,1,33,1.15,4.66,269
+1001003,200234,f,Brooklyn,Bushwick,40.68249,-73.98168,Private room,2,1,1.0,$102.28,1,47,0.85,4.73,218
+1001004,200298,f,Queens,Ridgewood,40.69255,-73.79998,Private room,2,1,1.5,$82.69,1,18,1.62,4.53,135
+1001005,200244,t,Brooklyn,Brooklyn Heights,40.67523,-73.94136,Private room,2,1,1.0,$73.62,30,16,1.2,4.88,34
+1001006,200351,f,Brooklyn,Park Slope,40.66728,-73.94406,Entire home/apt,2,2,1.5,$208.59,2,15,8.18,4.82,145
+1001007,200267,f,Queens,Flushing,40.7301,-73.80592,Private room,2,1,2.0,$80.73,3,1,4.09,4.69,182
+1001008,200118,t,Manhattan,Chelsea,40.7983,-73.96855,Private room,2,1,1.0,$162.90,2,0,,5.0,77
+1001009,200144,f,Brooklyn,Greenpoint,40.6864,-73.94317,Entire home/apt,3,1,1.2,$366.63,2,21,0.38,4.94,307
+1001010,200381,f,Manhattan,Harlem,40.81466,-73.96225,Entire home/apt,4,3,2.2,$182.26,2,17,1.83,4.77,252
+1001011,200201,f,Staten Island,St. George,40.57218,-74.13789,Entire home/apt,4,3,2.8,$144.71,30,11,2.31,4.84,327
+1001012,200239,t,Bronx,Mott Haven,40.82024,-73.86301,Entire home/apt,2,2,1.5,$172.13,3,15,3.65,4.95,235
+1001013,200334,t,Manhattan,SoHo,40.78789,-73.96923,Private room,1,1,1.5,$114.74,3,20,1.56,4.88,321
+1001014,200246,f,Brooklyn,Greenpoint,40.67319,-73.95938,Entire home/apt,5,3,3.2,$275.90,1,25,1.74,4.95,336
+1001015,200346,t,Bronx,Mott Haven,40.83296,-73.86327,Shared room,1,1,1.0,$25.00,2,61,0.49,4.87,76
+1001016,200008,f,Manhattan,Harlem,40.7664,-73.94465,Private room,1,1,1.0,$177.37,2,11,0.43,4.87,72
+1001017,200152,t,Brooklyn,Park Slope,40.63859,-73.94905,Private room,2,1,1.0,$68.43,30,170,0.59,4.8,26
+1001018,200392,t,Queens,Long Island City,40.72986,-73.78729,Private room,2,1,2.0,$75.03,1,21,0.43,4.84,37
+1001019,200211,f,Manhattan,Harlem,40.76936,-73.95419,Entire home/apt,2,1,1.2,$649.97,1,21,1.45,4.86,253
+1001020,200367,f,Brooklyn,Brooklyn Heights,40.65729,-73.95269,Entire home/apt,4,2,1.5,$155.16,2,78,1.23,4.77,85
+1001021,200158,f,Manhattan,SoHo,40.79241,-73.9556,Entire home/apt,5,2,2.5,$257.70,1,69,1.41,4.97,356
+1001022,200058,t,Bronx,Riverdale,40.82374,-73.82512,Private room,1,1,1.0,$73.58,1,38,1.57,4.9,358
+1001023,200086,f,Staten Island,Todt Hill,40.56604,-74.16988,Entire home/apt,2,2,1.5,$163.86,7,18,3.63,4.54,30
+1001024,200055,t,Bronx,Pelham Bay,40.85234,-73.87002,Private room,1,1,1.0,$62.58,2,35,3.56,4.81,204
+1001025,200201,f,Brooklyn,Bed-Stuy,40.67076,-73.93527,Entire home/apt,4,2,1.5,$108.95,7,72,1.93,4.91,192
+1001026,200122,f,Queens,Long Island City,40.70529,-73.82043,Entire home/apt,4,2,1.5,$251.53,5,12,0.77,4.94,229
+1001027,200108,t,Queens,Long Island City,40.71924,-73.77873,Entire home/apt,3,2,1.5,$114.73,1,0,,5.0,180
+1001028,200304,f,Manhattan,Hell's Kitchen,40.77479,-73.94721,Private room,2,1,1.0,$158.64,2,52,0.35,4.47,244
+1001029,200132,t,Queens,Ridgewood,40.74622,-73.79066,Private room,1,1,1.5,$80.80,1,61,1.92,4.87,39
+1001030,200392,f,Manhattan,Midtown,40.7882,-73.96697,Entire home/apt,2,2,2.0,$367.33,30,14,1.37,4.83,328
+1001031,200385,f,Brooklyn,Bed-Stuy,40.6806,-73.94969,Entire home/apt,5,2,1.5,$286.73,2,49,1.14,4.93,156
+1001032,200198,f,Manhattan,SoHo,40.77935,-73.98725,Entire home/apt,4,3,2.2,$182.90,2,4,2.39,4.87,167
+1001033,200047,f,Manhattan,Upper East Side,40.74995,-73.95464,Hotel room,4,1,1.0,$280.51,2,18,1.35,4.7,157
+1001034,200228,t,Manhattan,Upper East Side,40.78546,-73.97111,Private room,1,1,1.0,$154.30,2,0,,5.0,129
+1001035,200245,t,Brooklyn,Bed-Stuy,40.68418,-73.95663,Entire home/apt,4,3,2.2,$188.32,1,6,0.36,4.78,81
+1001036,200203,t,Manhattan,SoHo,40.76808,-73.97546,Private room,2,1,1.0,$68.44,2,43,1.49,4.81,155
+1001037,200261,f,Brooklyn,Bed-Stuy,40.69872,-73.96173,Entire home/apt,4,2,1.5,$173.78,3,12,0.24,4.87,174
+1001038,200178,f,Manhattan,Upper East Side,40.74369,-73.97902,Shared room,1,1,1.0,$51.96,5,31,2.24,4.81,287
+1001039,200024,t,Manhattan,SoHo,40.80024,-73.99719,Entire home/apt,4,2,2.0,$232.80,2,45,0.37,4.85,87
+1001040,200175,f,Brooklyn,Bed-Stuy,40.6605,-73.94025,Private room,1,1,1.0,$62.81,2,2,1.61,4.87,101
+1001041,200274,t,Brooklyn,Crown Heights,40.71675,-73.96457,Entire home/apt,3,1,1.0,$290.48,7,19,0.74,4.75,247
+1001042,200340,t,Manhattan,Chelsea,40.76215,-73.96612,Private room,2,1,1.0,$252.95,1,37,0.66,4.66,205
+1001043,200261,f,Brooklyn,Williamsburg,40.69627,-73.95356,Private room,1,1,1.0,$102.94,7,67,0.77,4.71,88
+1001044,200286,f,Queens,Flushing,40.70388,-73.78839,Private room,2,1,1.0,$97.63,1,25,1.19,4.98,344
+1001045,200001,f,Brooklyn,Williamsburg,40.68742,-73.91752,Private room,2,1,1.0,$129.80,3,44,0.44,4.79,287
+1001046,200086,t,Manhattan,Chelsea,40.79295,-73.95878,Private room,2,1,1.0,$335.98,2,33,0.39,4.43,309
+1001047,200338,f,Manhattan,Greenwich Village,40.77917,-73.93458,Entire home/apt,4,2,2.0,$190.34,2,3,2.04,4.69,95
+1001048,200069,t,Queens,Ridgewood,40.72223,-73.80408,Entire home/apt,2,1,1.2,$148.31,7,13,0.15,4.85,158
+1001049,200031,t,Manhattan,Chelsea,40.81024,-73.99331,Entire home/apt,6,3,2.2,$205.09,1,0,,5.0,113
+1001050,200198,f,Queens,Ridgewood,40.70049,-73.79311,Hotel room,4,2,1.0,$106.36,2,13,0.19,4.55,23
+1001051,200091,f,Brooklyn,DUMBO,40.67817,-73.94762,Entire home/apt,4,2,1.5,$282.27,2,19,1.45,4.64,162
+1001052,200349,t,Bronx,Riverdale,40.85971,-73.87842,Private room,2,1,1.5,$30.22,5,4,0.67,4.6,285
+1001053,200383,t,Brooklyn,Bushwick,40.67916,-73.9496,Private room,1,1,1.5,$80.66,1,5,2.29,4.81,352
+1001054,200016,f,Staten Island,Todt Hill,40.56613,-74.15113,Entire home/apt,3,1,1.0,$73.20,5,92,3.15,4.79,54
+1001055,200310,t,Manhattan,Chelsea,40.79589,-73.93939,Entire home/apt,4,2,2.0,$220.20,2,35,1.06,4.54,63
+1001056,200396,f,Brooklyn,Crown Heights,40.68689,-73.98186,Entire home/apt,5,3,2.8,$213.30,1,26,1.52,4.92,32
+1001057,200276,f,Manhattan,Chelsea,40.78253,-73.97045,Entire home/apt,4,3,2.2,$236.77,3,37,2.79,4.72,45
+1001058,200338,t,Brooklyn,DUMBO,40.69224,-73.94143,Entire home/apt,2,1,1.0,$183.91,1,29,1.0,4.86,218
+1001059,200162,f,Brooklyn,Crown Heights,40.697,-73.93832,Entire home/apt,3,1,1.0,$207.16,2,2,2.2,4.64,288
+1001060,200192,f,Queens,Flushing,40.75158,-73.80148,Private room,3,1,1.5,$56.77,1,3,0.65,4.9,195
+1001061,200151,t,Staten Island,St. George,40.58167,-74.1378,Shared room,1,1,1.0,$34.45,2,130,1.69,4.84,252
+1001062,200365,f,Brooklyn,Bed-Stuy,40.66962,-73.95605,Entire home/apt,2,2,2.0,$327.48,2,81,1.7,4.84,285
+1001063,200113,t,Manhattan,Chelsea,40.77366,-73.98244,Entire home/apt,5,2,1.5,$393.23,2,25,1.61,4.53,235
+1001064,200273,f,Manhattan,SoHo,40.79094,-73.99872,Entire home/apt,4,2,2.5,$233.50,2,2,4.12,4.64,78
+1001065,200176,t,Brooklyn,Greenpoint,40.65486,-73.91626,Private room,1,1,1.0,$120.62,2,27,1.61,4.83,91
+1001066,200149,f,Manhattan,Upper East Side,40.77222,-73.9682,Private room,2,1,1.0,$210.65,1,64,1.57,4.56,95
+1001067,200178,t,Manhattan,SoHo,40.76076,-73.96979,Entire home/apt,2,2,2.5,$293.68,2,26,1.46,4.61,227
+1001068,200382,t,Manhattan,Upper East Side,40.77231,-73.99465,Entire home/apt,6,3,2.2,$245.52,30,9,2.95,4.76,285
+1001069,200223,f,Manhattan,SoHo,40.80315,-73.95346,Private room,2,1,1.0,$198.40,7,25,0.61,4.59,361
+1001070,200259,t,Manhattan,Midtown,40.78149,-73.95621,Private room,2,1,1.0,$129.85,1,230,3.45,4.66,234
+1001071,200273,f,Manhattan,Midtown,40.81165,-73.95989,Entire home/apt,2,1,1.0,$446.20,1,7,1.57,4.87,101
+1001072,200189,t,Manhattan,Hell's Kitchen,40.7903,-73.96822,Private room,2,1,1.5,$142.35,30,42,0.48,4.75,251
+1001073,200306,t,Manhattan,Midtown,40.79284,-73.97666,Entire home/apt,4,3,3.2,$187.73,2,14,1.73,4.4,139
+1001074,200378,f,Staten Island,Todt Hill,40.57535,-74.14344,Entire home/apt,3,2,1.5,$139.82,2,113,1.65,4.59,322
+1001075,200090,f,Manhattan,Midtown,40.77599,-73.97669,Private room,1,1,1.0,$184.58,3,16,0.34,4.83,142
+1001076,200343,t,Manhattan,Midtown,40.7831,-73.95394,Private room,2,1,1.0,$197.83,2,20,1.29,4.69,239
+1001077,200262,f,Brooklyn,Williamsburg,40.66121,-73.93281,Entire home/apt,2,1,1.2,$431.61,2,40,2.73,4.72,265
+1001078,200156,f,Manhattan,Upper East Side,40.79498,-73.95941,Private room,1,1,1.0,$207.75,30,54,1.7,4.84,341
+1001079,200200,f,Bronx,Mott Haven,40.8327,-73.89019,Entire home/apt,2,1,1.2,$106.41,3,3,0.24,4.88,60
+1001080,200055,t,Brooklyn,Williamsburg,40.6866,-73.94139,Private room,2,1,1.5,$84.84,1,30,1.22,4.66,22
+1001081,200254,f,Manhattan,Upper East Side,40.79817,-73.98171,Entire home/apt,3,1,1.8,$388.00,1,9,0.36,4.7,10
+1001082,200173,f,Manhattan,Upper East Side,40.7945,-73.95538,Private room,2,1,1.5,$131.42,1,11,0.73,4.78,15
+1001083,200200,f,Queens,Long Island City,40.72677,-73.78865,Private room,1,1,1.0,$73.39,3,37,2.49,4.93,48
+1001084,200102,f,Bronx,Mott Haven,40.85053,-73.87712,Entire home/apt,2,1,1.0,$62.29,1,105,1.05,4.84,365
+1001085,200285,t,Brooklyn,Bushwick,40.68617,-73.91986,Private room,2,1,1.0,$102.40,1,38,1.93,4.81,335
+1001086,200151,f,Brooklyn,Brooklyn Heights,40.67853,-73.96611,Private room,1,1,1.5,$106.25,30,8,2.54,4.79,169
+1001087,200111,f,Manhattan,Lower East Side,40.77279,-73.99789,Private room,1,1,1.0,$91.83,1,93,3.41,4.91,118
+1001088,200266,f,Staten Island,Todt Hill,40.59885,-74.13874,Entire home/apt,2,2,1.5,$131.08,1,4,2.97,4.91,41
+1001089,200091,t,Manhattan,Hell's Kitchen,40.77558,-73.99247,Private room,2,1,1.0,$151.02,1,54,2.97,4.96,9
+1001090,200177,f,Bronx,Pelham Bay,40.8323,-73.87437,Private room,2,1,1.0,$73.67,1,3,2.21,4.55,48
+1001091,200231,f,Brooklyn,Greenpoint,40.67984,-73.94306,Entire home/apt,2,1,1.2,$130.49,2,29,3.32,4.96,264
+1001092,200029,f,Brooklyn,Crown Heights,40.69832,-73.95459,Shared room,1,1,1.0,$92.29,30,59,0.66,4.83,206
+1001093,200301,f,Brooklyn,Williamsburg,40.65558,-73.96155,Entire home/apt,2,1,1.8,$428.35,7,32,1.54,4.89,166
+1001094,200195,f,Manhattan,Lower East Side,40.78275,-73.98213,Entire home/apt,5,3,2.2,$464.03,2,17,0.84,4.59,1
+1001095,200307,t,Manhattan,Midtown,40.77872,-73.97801,Private room,2,1,1.0,$76.90,2,18,0.15,4.98,67
+1001096,200239,f,Manhattan,Chelsea,40.79795,-73.98,Private room,1,1,1.0,$111.43,2,52,1.41,4.8,307
+1001097,200357,t,Manhattan,Lower East Side,40.77744,-73.96044,Private room,2,1,1.0,$143.32,1,16,0.98,4.66,209
+1001098,200384,f,Brooklyn,Crown Heights,40.66973,-73.93785,Entire home/apt,6,4,3.0,$160.16,1,47,0.23,4.49,138
+1001099,200267,t,Manhattan,SoHo,40.78807,-73.96907,Shared room,1,1,1.0,$50.36,30,112,2.01,4.89,36
+1001100,200214,f,Manhattan,Greenwich Village,40.76608,-73.95275,Entire home/apt,3,2,1.5,$217.76,1,4,1.68,4.94,217
+1001101,200082,f,Bronx,Mott Haven,40.87811,-73.86467,Entire home/apt,3,1,1.0,$285.83,1,29,1.69,4.72,277
+1001102,200128,f,Queens,Sunnyside,40.7125,-73.79446,Entire home/apt,2,1,1.0,$237.45,2,58,0.71,4.86,179
+1001103,200262,t,Bronx,Mott Haven,40.85965,-73.87403,Private room,1,1,1.0,$25.00,2,34,0.5,4.98,4
+1001104,200067,f,Staten Island,St. George,40.57757,-74.14509,Private room,2,1,1.5,$47.78,1,5,2.47,4.79,129
+1001105,200062,t,Manhattan,SoHo,40.80115,-73.95957,Private room,2,1,1.0,$208.49,1,4,1.06,4.49,132
+1001106,200133,t,Manhattan,Hell's Kitchen,40.79535,-73.97759,Private room,2,1,1.0,$71.57,2,25,2.07,4.97,98
+1001107,200137,t,Brooklyn,Bed-Stuy,40.68423,-73.95503,Entire home/apt,5,3,2.2,$126.66,3,23,1.97,4.87,159
+1001108,200028,f,Brooklyn,Crown Heights,40.69088,-73.92693,Private room,2,1,1.0,$110.20,1,35,1.02,4.66,235
+1001109,200211,f,Manhattan,Midtown,40.7914,-73.97671,Entire home/apt,5,2,2.5,$186.80,2,24,0.84,4.72,146
+1001110,200205,f,Queens,Flushing,40.72514,-73.7678,Entire home/apt,3,1,1.0,$213.59,2,15,1.17,4.71,358
+1001111,200253,f,Manhattan,Midtown,40.77784,-73.95545,Entire home/apt,2,1,1.0,$344.02,7,59,3.2,4.58,114
+1001112,200038,t,Manhattan,SoHo,40.78818,-73.97621,Private room,2,1,1.0,$106.26,2,34,0.25,4.88,3
+1001113,200043,f,Brooklyn,Brooklyn Heights,40.65803,-73.94103,Entire home/apt,2,1,1.8,$174.43,1,130,1.53,4.7,86
+1001114,200117,t,Brooklyn,Crown Heights,40.67957,-73.9171,Private room,2,1,2.0,$74.42,2,7,0.58,4.76,45
+1001115,200190,t,Brooklyn,Brooklyn Heights,40.6653,-73.90978,Entire home/apt,5,2,1.5,$183.47,3,6,0.92,4.91,82
+1001116,200046,t,Manhattan,Hell's Kitchen,40.78878,-73.96553,Entire home/apt,4,3,3.2,$191.72,1,39,3.12,4.66,153
+1001117,200166,f,Queens,Astoria,40.7193,-73.79018,Private room,1,1,1.0,$74.57,2,7,1.47,4.59,305
+1001118,200305,f,Manhattan,SoHo,40.7902,-73.95714,Entire home/apt,5,2,1.5,$491.83,1,30,2.81,4.82,281
+1001119,200203,t,Manhattan,Chelsea,40.76843,-73.9501,Private room,2,1,1.0,$141.73,1,68,2.03,4.9,326
+1001120,200233,f,Queens,Ridgewood,40.73362,-73.78578,Private room,2,1,1.0,$70.19,2,26,2.36,4.42,287
+1001121,200245,f,Bronx,Riverdale,40.84149,-73.87872,Entire home/apt,5,2,2.0,$187.53,1,12,1.89,4.54,110
+1001122,200209,t,Queens,Sunnyside,40.72929,-73.79209,Shared room,1,1,1.0,$43.28,5,36,2.33,4.75,116
+1001123,200248,f,Queens,Flushing,40.70742,-73.783,Entire home/apt,3,1,1.0,$83.62,2,72,2.13,4.88,96
+1001124,200295,f,Brooklyn,Bushwick,40.69315,-73.95514,Entire home/apt,8,4,3.5,$241.49,2,15,4.38,4.6,281
+1001125,200327,f,Brooklyn,Park Slope,40.66286,-73.94874,Private room,1,1,1.0,$81.46,2,49,0.96,4.93,188
+1001126,200383,f,Manhattan,Greenwich Village,40.78346,-73.97516,Entire home/apt,2,1,1.0,$328.87,2,25,0.26,4.93,87
+1001127,200158,f,Manhattan,Lower East Side,40.78219,-73.96788,Private room,2,1,1.0,$117.05,1,7,2.45,4.86,306
+1001128,200001,t,Manhattan,Greenwich Village,40.76258,-73.99,Private room,2,1,2.0,$184.55,7,34,0.93,4.76,86
+1001129,200217,f,Manhattan,Chelsea,40.74227,-73.95706,Shared room,1,1,1.0,$98.02,30,37,1.06,4.88,25
+1001130,200249,f,Brooklyn,Brooklyn Heights,40.67843,-73.92848,Entire home/apt,3,1,1.0,$89.49,1,10,0.42,4.9,30
+1001131,200392,t,Brooklyn,Brooklyn Heights,40.66113,-73.94383,Entire home/apt,3,2,1.5,$163.22,1,6,3.45,4.96,125
+1001132,200069,f,Manhattan,Upper East Side,40.78632,-73.97963,Private room,2,1,1.5,$121.61,1,5,3.72,4.81,197
+1001133,200030,f,Manhattan,SoHo,40.7598,-73.94501,Entire home/apt,3,1,1.0,$347.61,3,1,1.13,4.81,300
+1001134,200115,t,Brooklyn,Bed-Stuy,40.69919,-73.94993,Private room,2,1,1.0,$123.32,3,14,1.59,4.77,30
+1001135,200008,f,Manhattan,Harlem,40.79075,-73.97847,Private room,1,1,1.0,$115.10,5,30,0.78,4.81,316
+1001136,200369,f,Queens,Long Island City,40.71327,-73.76749,Entire home/apt,2,1,1.0,$166.39,3,59,5.53,4.79,231
+1001137,200275,t,Brooklyn,Greenpoint,40.65337,-73.94848,Entire home/apt,3,1,1.0,$156.01,2,11,0.46,4.75,44
+1001138,200315,t,Brooklyn,Park Slope,40.67946,-73.91943,Private room,2,1,2.0,$84.24,2,111,1.87,4.59,315
+1001139,200335,t,Brooklyn,Crown Heights,40.69165,-73.96928,Private room,2,1,1.0,$93.34,3,15,1.34,4.86,188
+1001140,200036,f,Queens,Sunnyside,40.72816,-73.79458,Entire home/apt,3,2,1.5,$180.24,2,57,1.29,4.88,51
+1001141,200311,f,Manhattan,Midtown,40.77967,-73.9619,Entire home/apt,8,4,4.0,$285.59,2,17,1.79,4.75,51
+1001142,200044,f,Brooklyn,Park Slope,40.65706,-73.95033,Entire home/apt,4,2,1.5,$214.40,2,16,0.43,4.86,331
+1001143,200155,t,Brooklyn,Crown Heights,40.68538,-73.93401,Private room,2,1,1.0,$90.70,2,38,4.63,4.94,317
+1001144,200077,t,Manhattan,Hell's Kitchen,40.78534,-73.97553,Entire home/apt,6,3,2.2,$148.19,2,43,2.18,4.83,322
+1001145,200078,t,Queens,Astoria,40.7264,-73.78379,Private room,1,1,1.0,$81.56,2,90,1.79,4.75,78
+1001146,200101,f,Brooklyn,Williamsburg,40.67871,-73.95983,Entire home/apt,5,3,2.2,$203.32,3,9,2.12,4.5,48
+1001147,200030,f,Brooklyn,DUMBO,40.6597,-73.96654,Private room,1,1,1.0,$56.20,2,25,1.29,4.85,229
+1001148,200039,f,Queens,Long Island City,40.75003,-73.78279,Entire home/apt,3,1,1.0,$180.18,2,4,3.09,4.73,343
+1001149,200239,t,Queens,Flushing,40.7266,-73.80171,Private room,2,1,1.0,$59.72,3,34,3.75,4.79,43
+1001150,200013,f,Brooklyn,Williamsburg,40.66959,-73.9278,Entire home/apt,4,3,2.2,$140.42,2,15,0.66,4.91,291
+1001151,200122,f,Queens,Sunnyside,40.75677,-73.80398,Private room,2,1,2.0,$77.58,1,38,1.71,4.89,246
+1001152,200144,t,Brooklyn,Greenpoint,40.69528,-73.94378,Entire home/apt,4,2,1.5,$111.48,1,22,1.81,4.81,218
+1001153,200172,f,Brooklyn,Bushwick,40.67501,-73.92164,Private room,2,1,1.0,$278.63,2,14,0.59,4.62,21
+1001154,200368,t,Brooklyn,Greenpoint,40.67805,-73.93975,Private room,2,1,1.5,$73.67,2,2,1.28,4.82,129
+1001155,200247,t,Brooklyn,Williamsburg,40.68192,-73.96858,Entire home/apt,5,3,2.8,$189.73,30,7,4.49,4.3,6
+1001156,200247,t,Manhattan,Midtown,40.78743,-73.97964,Private room,2,1,1.0,$104.53,2,6,2.7,4.79,271
+1001157,200045,f,Queens,Astoria,40.70688,-73.80266,Private room,2,1,2.0,$106.97,2,70,1.41,4.7,349
+1001158,200253,f,Queens,Long Island City,40.72032,-73.77945,Entire home/apt,8,4,3.0,$49.20,1,77,2.83,4.89,43
+1001159,200375,t,Manhattan,Lower East Side,40.76714,-73.98305,Entire home/apt,4,3,2.8,$289.61,1,9,2.53,4.89,239
+1001160,200291,t,Queens,Long Island City,40.73173,-73.81479,Entire home/apt,3,2,2.0,$194.27,3,1,2.51,4.71,365
+1001161,200207,f,Manhattan,Upper East Side,40.77321,-73.99617,Private room,1,1,1.0,$171.66,1,4,0.34,4.41,64
+1001162,200007,f,Manhattan,SoHo,40.7969,-73.97572,Private room,2,1,1.0,$256.83,2,34,1.96,4.79,245
+1001163,200242,f,Brooklyn,Bushwick,40.67796,-73.93046,Entire home/apt,4,2,2.0,$255.13,3,77,0.94,4.9,72
+1001164,200110,t,Manhattan,Chelsea,40.77227,-73.97588,Entire home/apt,2,1,1.0,$68.15,2,14,1.58,4.81,70
+1001165,200114,t,Queens,Flushing,40.71236,-73.81078,Private room,1,1,2.0,$111.39,7,46,2.2,4.69,196
+1001166,200307,t,Queens,Long Island City,40.71439,-73.80229,Private room,2,1,1.0,$61.22,2,38,0.69,4.39,188
+1001167,200302,t,Brooklyn,Greenpoint,40.67243,-73.93987,Entire home/apt,2,2,2.0,$161.38,1,60,0.77,4.93,157
+1001168,200276,f,Manhattan,SoHo,40.76973,-73.96641,Shared room,1,1,1.0,$49.54,7,10,1.9,4.83,329
+1001169,200096,f,Manhattan,SoHo,40.79038,-73.97822,Private room,3,1,1.5,$87.52,7,96,0.51,4.83,24
+1001170,200294,f,Brooklyn,Crown Heights,40.66613,-73.94292,Entire home/apt,3,1,1.0,$173.36,1,45,2.14,4.71,337
+1001171,200189,f,Staten Island,St. George,40.57646,-74.14689,Private room,2,1,1.0,$60.09,1,14,3.83,4.68,70
+1001172,200360,t,Brooklyn,Crown Heights,40.70175,-73.94317,Entire home/apt,5,2,2.0,$304.15,1,129,2.68,5.0,312
+1001173,200288,t,Manhattan,Hell's Kitchen,40.77351,-73.98456,Entire home/apt,2,2,1.5,$206.04,1,49,3.61,4.9,222
+1001174,200154,f,Brooklyn,Crown Heights,40.66542,-73.96614,Entire home/apt,4,3,2.2,$224.28,30,14,1.15,4.75,159
+1001175,200058,t,Brooklyn,Bushwick,40.69219,-73.9777,Private room,1,1,1.0,$77.21,2,3,1.95,4.65,305
+1001176,200338,t,Brooklyn,DUMBO,40.68552,-73.95722,Private room,2,1,1.5,$47.79,2,26,2.71,4.76,74
+1001177,200050,t,Manhattan,Greenwich Village,40.77541,-73.98467,Entire home/apt,5,3,2.2,$213.12,7,39,0.44,4.85,137
+1001178,200207,t,Brooklyn,DUMBO,40.69989,-73.94396,Entire home/apt,4,2,2.5,$159.10,2,72,0.73,4.91,40
+1001179,200052,t,Brooklyn,Park Slope,40.69006,-73.92469,Entire home/apt,4,3,2.8,$354.43,2,70,1.8,4.74,302
+1001180,200342,f,Bronx,Mott Haven,40.84725,-73.88273,Private room,2,1,1.0,$33.57,30,2,1.14,4.61,333
+1001181,200371,f,Manhattan,Hell's Kitchen,40.77979,-73.98233,Entire home/apt,4,2,1.5,$237.54,5,94,0.43,4.78,308
+1001182,200150,t,Brooklyn,DUMBO,40.67065,-73.94562,Private room,2,1,1.0,$84.70,5,73,0.89,4.68,15
+1001183,200053,t,Bronx,Pelham Bay,40.84279,-73.85862,Entire home/apt,5,2,1.5,$87.06,2,107,1.05,4.18,188
+1001184,200213,f,Manhattan,Midtown,40.79146,-73.97321,Entire home/apt,2,2,1.5,$294.14,3,18,2.27,4.45,27
+1001185,200066,t,Bronx,Mott Haven,40.85085,-73.87304,Entire home/apt,3,1,1.0,$144.64,1,5,3.09,4.97,162
+1001186,200232,f,Brooklyn,Crown Heights,40.69792,-73.95268,Entire home/apt,4,3,2.2,$131.97,2,4,0.79,4.88,316
+1001187,200373,t,Manhattan,Greenwich Village,40.80106,-73.99334,Private room,1,1,1.5,$94.85,30,21,1.01,4.58,54
+1001188,200299,t,Manhattan,Harlem,40.77739,-73.97616,Entire home/apt,3,1,1.0,$155.66,1,84,0.17,4.56,273
+1001189,200338,f,Brooklyn,Bushwick,40.68238,-73.93127,Entire home/apt,2,1,1.0,$299.75,3,144,2.8,4.71,304
+1001190,200151,f,Manhattan,Upper East Side,40.76436,-73.98782,Entire home/apt,3,1,1.0,$617.37,2,0,,5.0,101
+1001191,200205,t,Brooklyn,Williamsburg,40.65717,-73.9244,Entire home/apt,2,2,1.5,$272.12,1,29,0.76,4.74,41
+1001192,200320,t,Manhattan,Upper East Side,40.78756,-73.98747,Entire home/apt,4,2,2.0,$233.62,3,38,0.59,4.62,262
+1001193,200255,t,Brooklyn,Greenpoint,40.67155,-73.92647,Entire home/apt,3,1,1.0,$334.89,1,76,6.72,4.68,170
+1001194,200137,t,Manhattan,Chelsea,40.77893,-73.97626,Private room,2,1,1.0,$98.74,2,20,3.12,4.94,207
+1001195,200369,f,Queens,Sunnyside,40.71648,-73.81027,Private room,2,1,1.0,$37.08,1,13,0.86,4.91,314
+1001196,200135,f,Staten Island,St. George,40.59725,-74.12509,Entire home/apt,4,2,2.0,$159.34,30,20,3.36,4.84,48
+1001197,200054,f,Bronx,Pelham Bay,40.83002,-73.84373,Entire home/apt,3,1,1.2,$180.53,1,14,1.62,4.8,59
+1001198,200065,f,Brooklyn,Greenpoint,40.67089,-73.9362,Shared room,1,1,1.0,$40.20,1,21,1.95,4.76,5
+1001199,200002,f,Manhattan,Midtown,40.80425,-73.97338,Entire home/apt,5,2,2.0,$274.00,1,22,1.32,4.7,147
